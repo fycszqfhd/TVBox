@@ -308,7 +308,7 @@
       "key": "测试",
       "name": "看电视3.0测试频道",
       "type": 4,
-      "api": "proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt",
+      "api": "http://120.53.102.254/live2/?url=http://home.jundie.top:81/Cat/tv/live.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
