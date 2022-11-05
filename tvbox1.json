@@ -305,8 +305,8 @@
 
 	    
 	  {
-      "key": "测试",
-      "name": "看电视3.0测试频道",
+      "key": "测试1",
+      "name": "电视直播测试频道1",
       "type": 4,
       "api": "http://120.53.102.254/live2/?url=http://home.jundie.top:81/Cat/tv/live.txt",
       "searchable": 1,
@@ -315,7 +315,16 @@
     },
 
     
-	    
+	          {
+      "key": "测试2",
+      "name": "电视直播测试频道2",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
 	
 	    
 	    
