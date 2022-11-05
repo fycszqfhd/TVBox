@@ -285,7 +285,7 @@
 
 
 {"key": "csp_xBPQ_电视直播线路",
-	"name": "电视直播线路",
+	"name": "电视直播测试频道1",
 	"type": 3,
 	"api": "csp_xBPQ",
 	"searchable": 1,
@@ -305,8 +305,8 @@
 
 	    
 	  {
-      "key": "测试1",
-      "name": "电视直播测试频道1",
+      "key": "测试2",
+      "name": "电视直播测试频道2",
       "type": 4,
       "api": "http://120.53.102.254/live2/?url=http://home.jundie.top:81/Cat/tv/live.txt",
       "searchable": 1,
@@ -316,8 +316,8 @@
 
     
 	          {
-      "key": "测试2",
-      "name": "电视直播测试频道2",
+      "key": "测试3",
+      "name": "电视直播测试频道3",
       "type": 4,
       "api": "http://120.53.102.254/live?url=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ=",
       "searchable": 1,
@@ -326,7 +326,22 @@
     },
     
 	
-	    
+	
+
+
+ {
+      "key": "测试4",
+      "name": "电视直播测试频道4",
+      "type": 4,
+      "api": "http://120.53.102.254/live2?url=http://xn--4bra.live/jar2/zb.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+
+
+
 	    
 	    
 	    
