@@ -10,7 +10,6 @@
 
  {"key":"快看","name":"看电视线路0","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_xpath_线路1","name":"看电视线路1","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
-         { "key": "线路2", "name": "看电视线路2", "type": 0, "api": "https://www.wolongzyw.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "线路3", "name": "看电视线路3", "type": 0, "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "线路4", "name": "看电视线路4", "type": 0, "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "线路5", "name": "看电视线路5", "type": 0, "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
