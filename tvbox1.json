@@ -26,7 +26,7 @@
 
 
 {"key":"厂长","name":"看电视线路9","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Lezhu","name":"看电视线路10","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"555","name":"看电视线路10","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 	    
 	    
 	    
@@ -205,7 +205,7 @@
 
 
 
-{"key":"csp_XPath_鹅直播","name":"🐧企鹅体育直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xp/企鹅直播.json"},
+{"key":"csp_XPath_鹅直播","name":"🐧球迷直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://hkidc.site/TVBox/json/球迷直播.json"},
 
 	    
 	    
