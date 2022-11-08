@@ -14,7 +14,7 @@
 	    { "key": "线路3", "name": "看电视线路3", "type": 0, "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "线路4", "name": "看电视线路4", "type": 0, "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
-{"key":"csp_SP360","name":"看电视线路5","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xpath_线路1","name":"看电视线路5","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8"},
 {"key":"csp_apple","name":"看电视线路6","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},    
 
  //{"key":"csp_xpath_线路0","name":"请勿相信上面的博彩广告","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
@@ -22,15 +22,15 @@
 
 { "key": "线路10", "name": "看电视线路7", "type": 0, "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/at/xml
 ", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"dr_360影视","name":"看电视线路8","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=360影视","searchable":2,"quickSearch":0,"filterable":0},
+{"key":"csp_xpath_czspp","name":"看电视线路8","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/czspp.json"},
 
 
 {"key":"厂长","name":"看电视线路9","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"看电视线路10","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_Wmkk","name":"看电视线路11","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/0820.jar;md5;F49657B939A9134AD6B947CCB9390E99"},    
+	{"key":"csp_SP293","name":"看电视线路12","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp07.txt"},    
 	    
-	    
-	    
-	    
+	{"key":"酷点资源","name":"看电视线路13","type":1,"api":"https://kudianzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},    
 	    
 	    
 	    
@@ -131,9 +131,21 @@
 
 
 
-	{"key":"csp_XYQBiu_310直播","name":"体育直播线路7","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/310直播.json"},    
+	{"key":"csp_XYQBiu_310直播","name":"⚽🏀体育直播线路7","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/310直播.json"},    
+	    
+	  {"key":"csp_Bliqx","name":"⚽🏀体育直播线路8","type":3,"api":"csp_Bliqx","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.txt"},  
+	    
+	{"key":"csp_XYQBiu_17klive","name":"⚽🏀体育直播线路9","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XYQ/17klive.json","jar":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/JAR/0906.jar"},
+	{"key":"csp_XYQHiker_无插件直播","name":"⚽🏀体育直播线路10","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XYQH/无插件直播.json","jar":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/JAR/0906.jar"},    
+	    
+	{"key":"csp_xpath_88kanqiu","name":"⚽🏀体育直播线路11","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json","jar":"http://神器每日推送.tk/jar;md5;b36bd696d9b4ec61e31e86d52c2f2a3a"},    
+	 {"key":"csp_xpath_qiumi","name":"⚽🏀体育直播线路12","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/gginn/ganggang/-/raw/master/qiumi.json","jar":"http://刚刚.live/jar2/gg0925.jar"},   
 	    
 	    
+	    
+	    
+	    
+	 {"key":"py_cctvty","name":"📺央视体育py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/py_/py/-/raw/py/py_cctvty.py","jar":"http://121.199.23.234:8080/ipfs/QmfRFUorYcdBm2KD9YBQpTX6psZ2G6DQvhquWwmS1eKsLj?filename=999.png;md5;3E92F56BD34DBC49F26EBCE77B845255"},   
 	    
 	    
 	    
@@ -202,8 +214,13 @@
       "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
     },
 
+	    
+	{"key":"csp_xpath_qiumi","name":"⚽球迷","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/ext/dj看球.json","jar":"http://神器每日推送.tk/jar;md5;b36bd696d9b4ec61e31e86d52c2f2a3a"},    
+	    
+	    
+	    
 
-
+{"key":"体育","name":"⚽🏀体育〔合集〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/体育.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
 
 
 
