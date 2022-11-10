@@ -27,7 +27,7 @@
 {"key":"厂长","name":"看电视线路8","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kuaikan","name":"看电视线路9","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	    
-	{"key":"酷点资源","name":"看电视线路10","type":1,"api":"https://kudianzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},    
+	{"key":"T4_douban","name":"看电视线路10","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},    
 	    
 	    
 	    
