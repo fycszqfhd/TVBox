@@ -32,7 +32,7 @@
 	    
 	{"key":"js豆瓣","name":"看电视线路10","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},    
 	{"key":"csp_DiDuan" ,"name":"看电视线路11","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
-	{"key":"速更资源","name":"看电视线路12","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	{"key":"速更资源","name":"看电视线路12","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 	
 	    
 
