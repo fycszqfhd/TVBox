@@ -275,6 +275,7 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 青海卫视,http://60.10.167.88:808/hls/40/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://b1batman.qicp.vip:8055/udp/239.45.1.230:5140
+河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 河南卫视,http://39.134.65.166/PLTV/88888888/224/3221225890/index.m3u8
 河南卫视,http://219.142.151.179:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://222.240.82.92:9901/tsfile/live/0139_1.m3u8
