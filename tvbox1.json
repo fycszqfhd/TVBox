@@ -408,21 +408,19 @@
 
 
 
- {
-      "key": "csp_XYQ_lu1",
-      "name": "️🖥️电视直播测试频道5",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json"
-    },
+ 
 
 
 
 
-
+{
+         "name":"🖥️电视直播测试频道6",
+         "type":0, 
+         "url":"https://gitlab.com/duomv/duo/-/raw/main/txt/v.txt",
+         "logo":"",
+         "epg":"",
+   "ua":""
+      },
 
 
 
