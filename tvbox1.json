@@ -33,7 +33,7 @@
 	{"key":"js豆瓣","name":"看电视线路10","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},    
 	{"key":"csp_DiDuan" ,"name":"看电视线路11","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"速更资源","name":"看电视线路12", "type": 0, "api": "https://sugengzy.cn/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"Smdyy","name":"看电视线路13","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/hongdeng98/YH/raw/branch/main/Jar/Mao0820.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"},
+{"key":"csp_xpath_jbb","name":"看电视线路13","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/jubaibai.json"},
 	{"key":"mtv_pc_奇艺视频","name":"看电视线路14","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 	    
 
