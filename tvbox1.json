@@ -36,9 +36,9 @@
 	{"key":"js豆瓣","name":"看电视线路13","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},    
 	{"key":"csp_DiDuan" ,"name":"看电视线路14","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 	    
+	{"key":"csp_QXBiubiu_TVB云播","name":"看电视线路15","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/TVB云播.json","jar":"https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/JAR/0906.jar"},    
 	    
-	    
-	    
+ {"key":"江湖官采","name":"江湖官采","type":0,"api":"http://119.29.1.173/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 	    
 	    
 	    
@@ -211,7 +211,7 @@
 {"key":"体育","name":"⚽🏀体育〔合集〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/体育.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
 
 
-
+{"key":"csp_xpath_网络搜集库88","name":"球迷专场一","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/88kanqiu.json","jar":"http://www.naywod.online/view.php/37cd198bd599765cb1452d3a33e48768.jpg;md5;37cd198bd599765cb1452d3a33e48768"},
 	    
 	    
 	    
@@ -234,6 +234,25 @@
 {"key": "戏 曲" ,"name": "🅱️戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 {"key": "演唱会","name": "🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bliyc.json"},
 {"key": "csp_biubiu_ting","name": "🌿听书网","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/tingshu.json"},
+
+{"key":"csp_biubiu_ting","name":"听书（无画面）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/tingbook.json"},
+
+{"key": "听小说有声书",
+      "name": "听小说有声书",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://wp.anxwl.cn/down.php/3aba799585fb78e9cf2e38fb2813a8e3.json","jar":"http://wp.anxwl.cn/down.php/c5c337bb2793598e9aa5953898fbb087.txt"},
+
+
+
+
+
+
+
+
 {
       "key": "儿童",
       "name": "🐯儿童乐园",
