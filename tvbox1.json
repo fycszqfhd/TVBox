@@ -536,11 +536,8 @@
       "type": 2,
       "url": "Parallel"
     },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
+    { "name": "Json轮询", "type": 2, "url": "Sequence" },
+    { "name": "Jsonaiaine", "type": 1, "url": "http://www.aiaine.com/api/?key=zJQvr5baYHz7vpNSy9&url=" },
 	
 	
 	
