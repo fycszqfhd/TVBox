@@ -99,31 +99,7 @@
         },
 	    
 	    
-	 {
-            "key" : "天堂资源〔官源〕",
-            "name" : "看电视线路18",
-            "type" : 1,
-            "api" : "http://vipmv.cc/api.php/provide/vod/",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "categories" : [
-                "电影",
-                "连续剧",
-                "综艺",
-                "动漫",
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "哔哩哔哩"]
-        },    
+	{"key":"csp_Dy555","name":"看电视线路18","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 	    
 	    
 	    
