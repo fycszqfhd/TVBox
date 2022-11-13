@@ -537,6 +537,7 @@
 {"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},	
 {"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜"]}},
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},	
+{"name":"江湖云","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"💡奇米","type":1,"url":"https://qimihe.com/?url="}
 ],
 
