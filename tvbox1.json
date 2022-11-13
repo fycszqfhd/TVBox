@@ -544,6 +544,8 @@
 	
 	
 	
+	
+
 {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"bz2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"bz3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
@@ -556,7 +558,6 @@
 {"name":"💡奇米","type":1,"url":"https://qimihe.com/?url="}
 ],
 
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
     "ijk": [ 
         { "group": "软解码","options": [
         { "category": 4, "name": "opensles", "value": "0" },
