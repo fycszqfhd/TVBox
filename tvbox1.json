@@ -4,8 +4,7 @@
 {
 
 "spider": "https://ghproxy.com/https://github.com/fycszqfhd/TVBox/blob/fycszqfhd-patch-1/221017.jar",
-"wallpaper":"<script>(function(){var cltj=document.createElement("script");cltj.src="http://tj.hkidc.site/tongji/?v=1.1";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(cltj,s);})();</script>",
-//"wallpaper":"https://壁纸.神器每日推送.tk",
+"wallpaper":"https://壁纸.神器每日推送.tk",
     "sites": [
   {"key":"Lezhu_spider","name":"请勿相信博彩广告,若无法看请点击数据源","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},      
 
