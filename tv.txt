@@ -22,16 +22,6 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://111.30.170.247/cgi-bin/httpconn
-NASA台,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
-美国中文台,https://jpts.sinovision.net/livestream.m3u8
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-ABC新闻台,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-CBS新闻,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
-CBS新闻,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-NBC新闻台2,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-NHK国际频道1,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 J2,http://120.84.96.161:808/hls/86/index.m3u8 
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,http://120.132.122.244:59845/hls/81/index.m3u8
@@ -69,14 +59,22 @@ TVB明珠台,http://140.238.155.232:9000/jmsytb.m3u8?c=38
 台湾偶像剧,http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
 台湾偶像剧2,http://140.238.155.232:9000/jmsytb.m3u8?c=35
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-
+NASA台,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 原住民电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 大愛1 (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2 (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛3 (720p),http://140.238.155.232:9000/jmsytb.m3u8?c=31
-
+美国中文台,https://jpts.sinovision.net/livestream.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+ABC新闻台,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+CBS新闻,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
+CBS新闻,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+NBC新闻台2,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+NHK国际频道1,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 
 
@@ -216,8 +214,9 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 重庆卫视,http://59.44.10.113:9901/tsfile/live/1020_1.m3u8
 深圳卫视,http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
 深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
-辽宁卫视,http://58.222.75.102:9901/tsfile/live/1020_1.m3u8
 辽宁卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8
+辽宁卫视,http://58.222.75.102:9901/tsfile/live/1020_1.m3u8
+
 辽宁卫视,http://yfsl.vsd.gehua.net.cn/live/LiaoNingHD_1200.m3u8
 辽宁卫视,http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
 江西卫视,http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8?zweimd
@@ -646,6 +645,7 @@ WWE副舞台,http://111.62.156.15/tx.flv.huya.com/src/1099531627786-109953162778
 影视,#genre#
 星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 HBO影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+台湾影视,https://pull-l3-cny.douyincdn.com/live/9ab8193b09a0c2c4c8d134829bde694d.flv
 湖南影视,http://111.40.196.30/PLTV/88888888/224/3221225660/index.m3u8
 南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
