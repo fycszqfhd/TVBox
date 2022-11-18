@@ -265,7 +265,7 @@
  
 
 	    
-	{"key":"csp_XPath_鹅直播","name":"🐧企鹅┃直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61536/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD_3.json?sign=jlYs5jta53LEO25B1zw-otMuClE9Cdgk1i1-6HWsc5g%3D%3A0"},    
+	
 	    
 
 	    
@@ -392,6 +392,12 @@
 
 
 
+	{"key" : "drpy_js_有声小说吧","name" : "有声小说┃JS","type" : 3,"api" : "http://w.g9.pub:66/381203888/lib/drpy.min.js","ext" : "http://w.g9.pub:66/381203888/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js","jar":"http://w.g9.pub:66/381203888/jar/JS%E4%B8%93%E7%94%A8.jar"},
+    
+	    
+	    
+	    
+	    
 
 
 
