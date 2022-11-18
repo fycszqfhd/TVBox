@@ -513,7 +513,7 @@ CCTV-17 农业农村,http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 
 
 
-电台,#genre#
+广播电台,#genre#
 CNR 中国之声,http://live.xmcdn.com/live/1065/64.m3u8
 CNR 中国之声,http://ls.qingting.fm/live/386.m3u8
 CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
@@ -525,8 +525,12 @@ CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+News98新闻台,http://n12.rcs.revma.com/55tyxsy4qtzuv
+飞碟电台,http://n08.rcs.revma.com/em90w4aeewzuv
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
+有声文摘台,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
 CRI 环球资讯广播 FM90.5,http://ls.qingting.fm/live/24035.m3u8
@@ -647,6 +651,7 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 广东体育,http://120.84.96.31:808/hls/22/index.m3u8
 广东体育,http://mmitv.top/pltv/itouchtv.php?id=gdty&pk=1184
+广东体育,http://27.36.62.163:9090/live/gdsportsHD_7000.m3u8
 天津体育,http://anyun-ship.com:8888/udp/225.1.1.122:5002
 山东体育,http://222.132.191.125:9901/tsfile/live/1005_1.m3u8
 山东体育,http://39.136.48.21:8089/PLTV/88888888/224/3221226075/1.m3u8
@@ -44671,6 +44676,7 @@ document.onkeydown = function(){
 
 <meta http-equiv="refresh" content="0; url=https://www.baidu.com">
 <p style="display:none;">
+
 
 
 
