@@ -101,8 +101,7 @@
 
 
 	    
-	{"key":"csp_Gitcafe","name":"看电视线路18","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
-
+{"key":"IKan","name":"看电视线路18","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
 
 
 	    
