@@ -11,7 +11,7 @@
 {"key":"Lezhu_spider","name":"看电视线路0","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},      
 
   {"key":"csp_xpath_线路1","name":"看电视线路1","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
-{"key":"csp_77","name":"看电视线路2","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"请勿相信博彩广告,若无法看请点击数据源","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	    { "key": "线路3", "name": "看电视线路3", "type": 0, "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "线路4", "name": "看电视线路4", "type": 0, "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
@@ -25,7 +25,6 @@
 
 {"key":"Kuaikan","name":"看电视线路7","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	    
-	{"key":"T4_douban","name":"看电视线路8","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},    
 	    
 	{"key":"dr_豆瓣","name":"看电视线路9","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"},    
 	    
