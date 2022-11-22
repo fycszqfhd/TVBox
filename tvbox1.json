@@ -6,7 +6,8 @@
 "spider": "https://ghproxy.com/https://github.com/fycszqfhd/TVBox/blob/fycszqfhd-patch-1/221017.jar",
 "wallpaper":"https://壁纸.神器每日推送.tk",
     "sites": [
-   {"key":"快看","name":"请勿相信博彩广告,若无法看请点击数据源","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"请勿相信博彩广告,若无法看请点击数据源","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"快看","name":"请勿相信博彩广告,若无法看请点击数据源2","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"看电视线路0","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},      
 
   {"key":"csp_xpath_线路1","name":"看电视线路1","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
