@@ -21,8 +21,6 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://111.30.170.247/cgi-bin/httpconn
 J2,http://120.84.96.161:808/hls/86/index.m3u8 
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,http://120.132.122.244:59845/hls/81/index.m3u8
@@ -35,10 +33,7 @@ J2,https://j3.lhlh.app/mv.m3u8
 香港耀财财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 香港耀财财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 
-FreshNews,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
-FreshNews,http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
-FreshNews,http://167.99.65.12:1935/live/myStream/playlist.m3u8
-Bayon TV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
@@ -71,16 +66,21 @@ TVB明珠台,http://140.238.155.232:9000/jmsytb.m3u8?c=38
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 NASA台,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+NASA台2,http://140.238.155.232:9000/jmsytb.m3u8?c=26
 原住民电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 原住民电视台2,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心電視2 (480p),rtmp://9wv7.mine.nu/sat/tv771
+唯心電視2 (480p),http://140.238.155.232:9000/jmsytb.m3u8?c=25
+
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛3,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 大愛3,rtmp://9wv7.mine.nu/sat/tv551
-美国中文台,https://jpts.sinovision.net/livestream.m3u8
+
+美国中文台1,https://jpts.sinovision.net/livestream.m3u8
+美国中文台2,http://140.238.155.232:9000/jmsytb.m3u8?c=24
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
@@ -93,11 +93,13 @@ NHK国际频道1,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xj
 ABC ,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 法国24台,http://140.238.155.232:9000/jmsytb.m3u8?c=13
 半岛新闻台,https://epg.pm/stream/aa91efbfad3543629e502661146f7d9a69ea2d66285c6b32309f8f90dc92e885.m3u8
-
+FreshNews,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
+FreshNews,http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
+FreshNews,http://167.99.65.12:1935/live/myStream/playlist.m3u8
+Bayon TV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+
 CCTV-1,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive
 CCTV-1,http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
 CCTV-1,http://39.135.138.59:18890/TVOD/88888910/224/3221225630/index.m3u8
@@ -190,7 +192,8 @@ CGTN记录频道,https://livedoc.cgtn.com/1000d/prog_index.m3u8?
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 CNC中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-
+CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
 📺卫视频道,#genre#
@@ -623,9 +626,7 @@ CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 
 
 📺4K专区,#genre# 
-CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8 
-CCTV-4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8 
-CCTV-4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8 
+
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8 
 欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8 
@@ -633,7 +634,6 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 欢笑剧场4K,http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8 
 欢笑剧场4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8 
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
 亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
 影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no 
@@ -652,6 +652,7 @@ Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
 🏀⛹️  体育直播,#genre#
+CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 
 
@@ -677,6 +678,7 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 广东体育,http://120.84.96.31:808/hls/22/index.m3u8
 广东体育,http://mmitv.top/pltv/itouchtv.php?id=gdty&pk=1184
 广东体育,http://27.36.62.163:9090/live/gdsportsHD_7000.m3u8
+广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 天津体育,http://anyun-ship.com:8888/udp/225.1.1.122:5002
 山东体育,http://222.132.191.125:9901/tsfile/live/1005_1.m3u8
 山东体育,http://39.136.48.21:8089/PLTV/88888888/224/3221226075/1.m3u8
@@ -708,6 +710,9 @@ ELEVEN体育1台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 咪咕篮球(1080P),http://39.135.138.58:18890/PLTV/88888888/224/3221226243/index.m3u8
 咪咕足球(1080P),http://39.135.138.58:18890/PLTV/88888888/224/3221226240/index.m3u8
+
+咪咕体育,https://github.com/fycszqfhd/TVBox/
+咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
 精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
@@ -770,7 +775,7 @@ WWE副舞台,http://111.62.156.15/tx.flv.huya.com/src/1099531627786-109953162778
 
 📺影视,#genre#
 星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-HBO影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 湖南影视,http://111.40.196.30/PLTV/88888888/224/3221225660/index.m3u8
 南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
@@ -1059,6 +1064,51 @@ icpid=88888888&RTS=1647066165&from=1&hms_devid=223
 高三年级,http://b1batman.qicp.vip:8055/udp/239.45.1.39:5140
 
 📺轮播,#genre#
+爱奇艺-国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
+爱奇艺-老剧超清修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key
+爱奇艺-华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
+爱奇艺-院线电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8?key
+爱奇艺-高分电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8?key
+爱奇艺-票房冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key
+爱奇艺-日韩院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8?key
+爱奇艺-经典港片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key
+爱奇艺-电影大片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8?key
+爱奇艺-温情影院,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8?key
+爱奇艺-惊悚午夜场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8?key
+爱奇艺-粤语原声,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key
+爱奇艺-动画电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key
+爱奇艺-历史秘闻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key
+爱奇艺-军事观察,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
+爱奇艺-经典纪实,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
+爱奇艺-科学探索,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key
+爱奇艺-自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
+爱奇艺-央视大剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_90_600_t10/c54_lb_90_600_t10.m3u8?key
+爱奇艺-家庭剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8?key
+爱奇艺-收视冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8?key
+爱奇艺-老年剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8?key
+爱奇艺-仙侠玄幻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8?key
+爱奇艺-经典重温,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key
+爱奇艺-婚姻剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_219_600_t10/c56_lb_219_600_t10.m3u8?key
+爱奇艺-情景喜剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_145_600_t10/c55_lb_145_600_t10.m3u8?key
+爱奇艺-热播电视剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8?key
+爱奇艺-口播年代剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_171_300_t10/c54_lb_171_300_t10.m3u8?key
+爱奇艺-抗战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8?key
+爱奇艺-宫庭正剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key
+爱奇艺-怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key
+爱奇艺-军旅剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8?key
+爱奇艺-权谋剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8?key
+爱奇艺-谍战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8?key
+爱奇艺-青春剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_147_720P_t10/c55_lb_147_720P_t10.m3u8?key
+爱奇艺-爱情保卫战,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_142_600_t10/c54_lb_142_600_t10.m3u8?key
+爱奇艺-人文社会,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_243_600_t10/c56_lb_243_600_t10.m3u8?key
+爱奇艺-美食厨房,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_182_600_t10/c56_lb_182_600_t10.m3u8?key
+爱奇艺-戏剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_245_600_t10/c56_lb_245_600_t10.m3u8?key
+爱奇艺-我和我的祖国,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_72_720P_t10/c53_lb_72_720P_t10.m3u8?key
+爱奇艺-第三调解室,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_240_600_t10/c56_lb_240_600_t10.m3u8?key
+爱奇艺-真人秀,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_75_720P_t10/c52_lb_75_720P_t10.m3u8?key
+爱奇艺-小说改编,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
+
+
 李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
 郭富城,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
@@ -2626,6 +2676,8 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 
 
 📺广场舞曲,#genre#
+糖豆广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8?key
+糖豆广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
 天际[640x352],https://txmov2.a.kwimgs.com/upic/2022/07/05/17/BMjAyMjA3MDUxNzA0MTVfOTU2MzA3MDg4Xzc4NDA3MjEyNzExXzJfMw==_b_B0c770ad9b73e8c2b9b161417f27ba25f.mp4?clientCacheKey=3xc5tjpkn2punuq_b.mp4&tt=b&di=24719032&bp=10000
 情人桥[854x480],https://alimov2.a.kwimgs.com/upic/2022/07/13/06/BMjAyMjA3MTMwNjI4NDRfOTU2MzA3MDg4Xzc5MDM5MjkxMzU2XzJfMw==_b_B1edf6c3d4e69f8fc6574a14cd990fa89.mp4?clientCacheKey=3xvhgyywgxn2vhy_b.mp4&tt=b&di=24712025&bp=10000
 来生不再错过你-米灵[854x480],https://txmov2.a.kwimgs.com/upic/2022/07/08/13/BMjAyMjA3MDgxMzI1MTVfOTU2MzA3MDg4Xzc4NjM4NDA5MDI4XzJfMw==_b_B70bc385ccc3aa0f6d674ae2d9a306f50.mp4?clientCacheKey=3xmfvue766rf6ua_b.mp4&tt=b&di=247171aa&bp=10000
