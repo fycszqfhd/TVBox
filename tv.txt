@@ -106,7 +106,7 @@ Bayon TV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
 📺央视频道,#genre#
 
-CCTV-1,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive
+
 CCTV-1,http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
 CCTV-1,http://39.135.138.59:18890/TVOD/88888910/224/3221225630/index.m3u8
 CCTV-1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8
@@ -124,7 +124,7 @@ CCTV-4 中文国际,http://60.10.167.88:808/hls/4/index.m3u8
 CCTV-4 中文国际,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=4
 CCTV-4 中文国际,http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4 中文国际,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8
-CCTV4美洲,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
+
 CCTV-5 体育,http://111.20.105.60:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=4
@@ -178,23 +178,21 @@ CCTV-14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-15 音乐,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8
 CCTV-15 音乐,http://60.10.167.88:808/hls/15/index.m3u8
 
-CCTV-16 奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+
 CCTV-16 奥林匹克,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV-17农业农村,http://yfsl.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
+
 CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV-17农业农村,http://59.51.68.40:1936/live/cctv7/playlist.m3u8
 CCTV-17农业农村,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 CCTV-怀旧剧场,http://60.10.167.88:808/hls/56/index.m3u8
 CCTV-怀旧剧场,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV-怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 CETV-1,http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8
 CETV-1,http://b1batman.qicp.vip:8055/udp/239.45.1.51:5140
 CETV-2,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.245:4056
-CETV-4,http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8?IASHttpSessionId=OTT
+
 CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-英语,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?sign=1652235852-b3d2d3595f8f9f6fb0779c5a9a7d0285
 CGTN-英语,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
@@ -45951,6 +45949,7 @@ document.onkeydown = function(){
 
 <meta http-equiv="refresh" content="0; url=https://www.baidu.com">
 <p style="display:none;">
+
 
 
 
