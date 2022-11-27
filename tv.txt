@@ -550,6 +550,10 @@ CNR 经济之声,http://live.xmcdn.com/live/1066/64.m3u8
 CNR 经济之声,http://ls.qingting.fm/live/387.m3u8
 CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 上海動感101电台,http://ls.qingting.fm/live/274.m3u8
+广州新闻电台FM96.2,http://ls.qingting.fm/live/4848.m3u8
+广州交通电台FM106.1,http://ls.qingting.fm/live/4955.m3u8
+广州汽车音乐电台FM102.7,http://ls.qingting.fm/live/52710.m3u8
+广州花都广播FM100.5,http://ls.qingting.fm/live/1263.m3u8
 山东体育广播,http://ls.qingting.fm/live/60266.m3u8
 中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
@@ -658,13 +662,16 @@ Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 麻辣体育,http://home.ddx2013.cc:4022/rtp/239.93.5.210:9732
 乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-
+纪实科教8K,http://111.62.156.19/pull.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 
 
 🏀⛹️  体育直播,#genre#
+2022世界杯开幕式,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/db5012e24f23449b85b082e2d6f2d313/2000.m3u8
 世界杯直播,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 世界杯直播,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-
+世界杯直播,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8$黑龙江移动
+世界杯直播2,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8$西藏移动
+CCTV-5 体育,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227686/index.m3u8
 CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
@@ -682,15 +689,18 @@ CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 
 CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://b1batman.qicp.vip:8055/udp/239.45.3.112:5140
 五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
 五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+广东体育,http://121.51.249.19/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,http://120.84.96.31:808/hls/22/index.m3u8
 广东体育,http://mmitv.top/pltv/itouchtv.php?id=gdty&pk=1184
 广东体育,http://27.36.62.163:9090/live/gdsportsHD_7000.m3u8
@@ -702,11 +712,11 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 山东体育,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdty&auth=rinimabi
 江苏体育,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=7f5cca872510710360
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 新视觉体育,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
-安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-高尔夫网球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
 新视觉体育,https://epg.pm/stream/bcf11d27e2ce62a0b2dca5d8c81e2d6f66c725fe2e5b6eb82c2897074e4b8f7d.m3u8#https://epg.pm/stream/66656cb6a3d1a271b3be81da3f56c7f2a739a0b525a66039ae85a4ca491db310.m3u8
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉体育,http://119.188.123.28/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -5132,6 +5142,7 @@ NNM家庭理财,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.co
 新疆综艺,http://livehyw5.chinamcache.com/hyw/zb04.m3u8?txSecret=21e884c07f77b8c31849d9ac938ad0bf&txTime=95A66658
 新疆维语经济生活,http://livehyw5.chinamcache.com/hyw/zb09.m3u8?txSecret=181d053f140036a2dab3debb05d1cb59&txTime=95A66658
 新疆哈语综艺,http://livehyw5.chinamcache.com/hyw/zb08.m3u8?txSecret=64144bee74a2860eca3c60e37fb449bb&txTime=95A66658
+
 克拉玛依汉语综合,https://klmyzb.rcsxzx.com/hls/klmy1.m3u8?zxinjd
 克拉玛依维语综合,https://klmyzb.rcsxzx.com/hls/klmy2.m3u8?zxinjd
 克拉玛依影剧场,https://klmyzb.rcsxzx.com/hls/klmy3.m3u8?zxinjd
@@ -5237,6 +5248,7 @@ NNM家庭理财,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.co
 🦀  吉林,#genre#
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
+延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
 吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
 吉林影院,http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild
