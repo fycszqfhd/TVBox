@@ -176,6 +176,7 @@ CCTV-13 新闻,http://183.207.249.12/PLTV/3/224/3221225560/index.m3u8
 CCTV-13 新闻,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 CCTV-13 新闻,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000021303&livemode=1&channel-id=ystenlive&test/PLTV/=01
 CCTV-13 新闻,http://60.10.167.88:808/hls/13/index.m3u8
+CCTV-14 少儿,http://yun.cnar.cc:4000/udp/224.30.30.19:8038
 CCTV-14 少儿,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14 少儿,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=4
 CCTV-14 少儿,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8
@@ -188,6 +189,7 @@ CCTV-15 音乐,http://60.10.167.88:808/hls/15/index.m3u8
 CCTV-15 音乐,http://happy2015.synology.me:4000/udp/239.3.1.153:8136
 CCTV-15 音乐,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-16 奥林匹克,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-16 奥林匹克,http://124.220.17.172/shijiebei/sjb.php?id=509s
 CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/1.m3u8?zyangd
 CCTV-17农业农村,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
@@ -46077,6 +46079,7 @@ document.onkeydown = function(){
 
 <meta http-equiv="refresh" content="0; url=https://www.baidu.com">
 <p style="display:none;">
+
 
 
 
