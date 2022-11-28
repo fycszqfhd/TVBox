@@ -49,6 +49,7 @@ TVB星河,http://206.221.176.47:64020
 翡翠台,http://nsszds.f3322.net:808/hls/25/index.m3u8
 翡翠台,http://27.47.71.97:808/hls/36/index.m3u8
 无线新闻台,http://120.132.122.244:59845/hls/82/index.m3u8
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
 无线新闻台,http://lan138.3322.org:29991/stream/channelid/1936554890
 无线新闻台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
 
@@ -179,13 +180,18 @@ CCTV-14 少儿,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14 少儿,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=4
 CCTV-14 少儿,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+
+CCTV-15 音乐,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8?zyangd
+CCTV-15 音乐,http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15 音乐,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8
 CCTV-15 音乐,http://60.10.167.88:808/hls/15/index.m3u8
-
-
+CCTV-15 音乐,http://happy2015.synology.me:4000/udp/239.3.1.153:8136
+CCTV-15 音乐,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-16 奥林匹克,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-
+CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/1.m3u8?zyangd
+CCTV-17农业农村,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-17农业农村,http://59.51.68.40:1936/live/cctv7/playlist.m3u8?zyangd
 CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV-17农业农村,http://59.51.68.40:1936/live/cctv7/playlist.m3u8
 CCTV-17农业农村,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
@@ -283,7 +289,9 @@ CCTV风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
 
 
 天津卫视,http://111.29.9.37:6610/000000001001/6000000001000009186/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000009186
+
 天津卫视,http://39.136.48.4:8089/PLTV/88888888/224/3221226485/index.m3u8
+天津卫视,http://221.0.78.198:2381/hls/20226/index.m3u8
 天津卫视,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 天津卫视,http://yfsl.vsd.gehua.net.cn/live/TianJinHD_1200.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
@@ -335,10 +343,11 @@ CCTV风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://111.29.9.37:6610/000000001001/6399324389404552555/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6399324389404552555
 青海卫视,http://yfsl.vsd.gehua.net.cn/live/QingHai_800.m3u8
-河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
-河南卫视,http://39.134.65.166/PLTV/88888888/224/3221225890/index.m3u8
-河南卫视,http://219.142.151.179:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://221.0.78.198:2381/hls/20234/index.m3u8
 河南卫视,http://222.240.82.92:9901/tsfile/live/0139_1.m3u8
+
+
+
 内蒙古卫视,http://60.10.167.88:808/hls/39/index.m3u8
 内蒙古卫视,http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
 内蒙古卫视,http://lu1.cc/c/tv/sjtv/p/qingk.php?id=nmws
@@ -590,6 +599,8 @@ CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 广州交通电台FM106.1,http://ls.qingting.fm/live/4955.m3u8
 广州汽车音乐电台FM102.7,http://ls.qingting.fm/live/52710.m3u8
 广州花都广播FM100.5,http://ls.qingting.fm/live/1263.m3u8
+青岛西海岸交通,https://jsylivealone302.iqilu.com/huangdao/huangdao_tv03.m3u8
+青岛即墨101.7,https://jsylivealone302.iqilu.com/jimo/jimo_tv03.m3u8
 山东体育广播,http://ls.qingting.fm/live/60266.m3u8
 中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
@@ -3184,29 +3195,12 @@ K望[854x480],https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4M
 上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 东方财经,http://lu1.cc/c/tv/sjtv/sh/ycxl.php?id=dfcj
 上海东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
-欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd
-都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
-上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
-上海生活,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-上海生活,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8?zshangd
-全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8?zshangd
-动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8?zshangd
-金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8?zshangd
-七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8?zshangd
-东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8?zshangd
-纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
-哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8?zshangd
-上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
-纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8?zshangd
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+
 魅力足球,http://223.111.195.50/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 幸福彩,http://223.111.195.50/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
 幸福彩,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
-MAX极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 MAX极速汽车,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1
 MAX极速汽车,http://223.111.195.50/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
 MAX极速汽车,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
@@ -3217,9 +3211,177 @@ MAX极速汽车,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
 金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8
-魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
+🍁  山东,#genre#
+山东齐鲁频道,http://221.0.78.198:2381/hls/20218/index.m3u8
+山东齐鲁频道,http://39.136.48.98:8089/PLTV/88888888/224/3221226045/1.m3u8
+山东齐鲁频道,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdql&auth=rinimabi
+山东生活,http://222.132.191.125:9901/tsfile/live/1003_1.m3u8
+山东生活,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdsh&auth=rinimabi
+山东综艺,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdzy&auth=rinimabi
+山东综艺,http://222.132.191.125:9901/tsfile/live/1004_1.m3u8
+山东新闻,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
+山东新闻,http://222.132.191.125:9901/tsfile/live/1006_1.m3u8
+山东新闻,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdgg&auth=rinimabi
+山东文旅,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdys&auth=rinimabi
+山东文旅,http://222.132.191.125:9901/tsfile/live/1002_1.m3u8
+山东少儿频道,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdse&auth=rinimabi
+山东少儿频道,http://222.132.191.125:9901/tsfile/live/1007_1.m3u8
+山东少儿频道,http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
+山东综艺频道,http://221.0.78.198:2381/hls/20219/index.m3u8
+山东综艺,http://221.0.78.198:2381/hls/20219/index.m3u8
+QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
+QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
+QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
+青岛胶州生活,https://jsylivealone302.iqilu.com/jiaozhou/jiaozhou_tv02.m3u8
+青岛胶州新闻,https://jsylivealone302.iqilu.com/jiaozhou/jiaozhou_tv01.m3u8
+青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
+青岛黄岛新闻,https://jsylivealone302.iqilu.com/huangdao/huangdao_tv01.m3u8
+青岛黄岛生活,https://jsylivealone302.iqilu.com/huangdao/huangdao_tv02.m3u8
+青岛李沧,https://jsylivealone302.iqilu.com/licang/licang_tv01.m3u8
+青岛即墨新闻,https://jsylivealone302.iqilu.com/jimo/jimo_tv01.m3u8
+青岛即墨生活,https://jsylivealone302.iqilu.com/jimo/jimo_tv02.m3u8
+青岛即墨实况,https://jsylivealone302.iqilu.com/jimo/jimo_tv04.m3u8
+青岛平度生活,https://jsylivealone302.iqilu.com/pingdu/pingdu_tv02.m3u8
+青岛平度新闻,https://jsylivealone302.iqilu.com/pingdu/pingdu_tv01.m3u8
+中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
+中华美食,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-zhmeishi/1.m3u8?shandd
+济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8?shandd
+济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
+齐河新闻,https://jsylivealone302.iqilu.com/qihe/qihe_tv01.m3u8
+
+济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
+济铁电视台,https://jsylivealone302.iqilu.com/jitie/jitie_tv01.m3u8
+济阳影视,https://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
+济阳综合,https://jsylivealone302.iqilu.com/live/jiyang_tv01.m3u8
+
+潍城TV,https://jsylivealone302.iqilu.com/weicheng/weicheng_tv01.m3u8
+寒亭新闻,https://jsylivealone302.iqilu.com/live/hanting_tv01.m3u8
+坊子新闻,https://jsylivealone302.iqilu.com/fangziqu/fangziqu_tv01.m3u8
+昌乐新闻,https://jsylivealone302.iqilu.com/changle/changle_tv01.m3u8
+昌乐新闻,https://jsylivealone302.iqilu.com/changle/changle_tv01.m3u8
+青州文旅,http://sdqz.chinashadt.com:2036/live/stream:3.stream_360p/playlist.m3u8
+青州新闻,http://sdqz.chinashadt.com:2036/live/stream:1.stream_360p/playlist.m3u8
+安丘民生,https://jsylivealone302.iqilu.com/anqiu/anqiu_tv02.m3u8
+安丘新闻,https://jsylivealone302.iqilu.com/anqiu/anqiu_tv01.m3u8
+日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
+日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
+日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd
+岚山,https://jsylivealone302.iqilu.com/rizhaolanshan/rizhaolanshan_tv01.m3u8
+烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
+烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
+烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
+莱山影视,https://jsylivealone302.iqilu.com/laishan/laishan_tv02.m3u8
+莱山综合,https://jsylivealone302.iqilu.com/laishan/laishan_tv01.m3u8
+海阳综合,https://jsylivealone302.iqilu.com/haiyang/haiyang_tv01.m3u8
+威海新闻,http://l1.weihai.tv:8081/hls/969O76hb28.m3u8
+威海都市生活,http://l2.weihai.tv:8081/hls/g16E3482eI.m3u8
+威海城市海洋,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
+乳山生活,https://jsylivealone302.iqilu.com/live/rushan_tv02.m3u8
+乳山新闻,https://jsylivealone302.iqilu.com/live/rushan_tv01.m3u8
+济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
+济宁教育,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8?shandd
+济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
+济宁图文,http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8?shandd
+梁山新闻,https://jsylivealone302.iqilu.com/liangshan/liangshan_tv01.m3u8
+嘉祥生活,https://jsylivealone302.iqilu.com/jiaxiang/jiaxiang_tv02.m3u8
+嘉祥新闻,https://jsylivealone302.iqilu.com/jiaxiang/jiaxiang_tv01.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
+牡丹区新闻,https://jsylivealone302.iqilu.com/mudan/mudan_tv01.m3u8
+牡丹区综艺,https://jsylivealone302.iqilu.com/mudan/mudan_tv02.m3u8
+枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8?shandd
+枣庄新闻综合,http://stream.zzgd.tv/1/sd/live.m3u8?shandd
+枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8?shandd
+枣庄教育,http://stream.zzgd.tv/2/sd/live.m3u8?shandd
+枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?shandd
+枣庄公共,http://stream.zzgd.tv/3/sd/live.m3u8?shandd
+东营综合,http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
+东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
+东营综合,http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
+东营公共,rtmp://stream.hhek.cn:9936/live/ggpd_sd?shandd
+东营公共,http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
+东营科教,rtmp://stream.hhek.cn:9936/live/dyjy_sd?shandd
+东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd
+东营区科教影视,https://jsylivealone302.iqilu.com/dongying/dongying_tv02.m3u8
+东营区新闻,https://jsylivealone302.iqilu.com/dongying/dongying_tv01.m3u8
+
+滨州新闻综合,http://stream.bzcm.net/2/sd/live.m3u8?shandd
+滨州公共,http://stream.bzcm.net/1/sd/live.m3u8?shandd
+惠民影视,https://jsylivealone302.iqilu.com/live/huimin_tv02.m3u8
+惠民综合,https://jsylivealone302.iqilu.com/live/huimin_tv01.m3u8
+利津文化生活,https://jsylivealone302.iqilu.com/lijin/lijin_tv02.m3u8
+利津新闻,https://jsylivealone302.iqilu.com/lijin/lijin_tv01.m3u8
+聊城公共F,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
+聊城公共频道,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
+聊城新闻F,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel2/playlist.m3u8
+聊城新闻综合,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel2/playlist.m3u8
+东阿新闻,https://jsylivealone302.iqilu.com/donge/donge_tv01.m3u8
+东阿综艺信息,https://jsylivealone302.iqilu.com/donge/donge_tv02.m3u8
+东昌综合,https://jsylivealone302.iqilu.com/dongchangfu/dongchangfu_tv01.m3u8
+东平民生,https://jsylivealone302.iqilu.com/dongping/dongping_tv02.m3u8
+东平新闻,https://jsylivealone302.iqilu.com/dongping/dongping_tv01.m3u8
+泰安新闻综合,rtmp://124.130.146.172/live/tatv0111?shandd
+潍坊滨海新闻综合,https://livealone302.iqilu.com/binhai/binhai_tv.m3u8?shandd
+青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
+滨州新闻综合,http://stream.bzcm.net/2/sd/live.m3u8?shandd
+滨州公共,http://stream.bzcm.net/1/sd/live.m3u8?shandd
+泰安新闻综合,rtmp://124.130.146.172/live/tatv0111?shandd
+兖州生活,https://jsylivealone302.iqilu.com/live/yanzhou_tv02.m3u8
+兖州新闻,https://jsylivealone302.iqilu.com/live/yanzhou_tv01.m3u8
+禹城综合,https://jsylivealone302.iqilu.com/yucheng/yucheng_tv01.m3u8
+禹城综艺,https://jsylivealone302.iqilu.com/yucheng/yucheng_tv02.m3u8
+郓城新闻,https://jsylivealone302.iqilu.com/live/yuncheng_tv01.m3u8
+郓城综艺,https://jsylivealone302.iqilu.com/live/yuncheng_tv02.m3u8
+青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
+枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8
+枣庄教育,http://stream.zzgd.tv/2/sd/live.m3u8
+枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8
+枣庄新闻,http://stream.zzgd.tv/1/sd/live.m3u8
+枣庄新闻,http://stream.zztvzd.com/1/sd/live.m3u8
+兖州生活,https://jsylivealone302.iqilu.com/live/yanzhou_tv02.m3u8
+兖州新闻,https://jsylivealone302.iqilu.com/live/yanzhou_tv01.m3u8
+平邑生活,https://jsylivealone302.iqilu.com/pingyi/pingyi_tv02.m3u8
+平邑新闻,https://jsylivealone302.iqilu.com/pingyi/pingyi_tv01.m3u8
+平阴生活,https://jsylivealone302.iqilu.com/pingyin/pingyin_tv02.m3u8
+平阴综合,https://jsylivealone302.iqilu.com/pingyin/pingyin_tv01.m3u8
+平原新闻,https://jsylivealone302.iqilu.com/pingyuan/pingyuan_tv01.m3u8
+沾化综合,https://jsylivealone302.iqilu.com/zhanhua/zhanhua_tv01.m3u8
+张店2,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv02.m3u8
+张店综合,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv01.m3u8
+章丘综合,https://jsylivealone302.iqilu.com/zhangqiu/zhangqiu_tv01.m3u8
+章丘TV-2,https://jsylivealone302.iqilu.com/zhangqiu/zhangqiu_tv02.m3u8
+周村生活,https://jsylivealone302.iqilu.com/zhoucun/zhoucun_tv02.m3u8
+周村新闻,https://jsylivealone302.iqilu.com/zhoucun/zhoucun_tv01.m3u8
+淄川生活,https://jsylivealone302.iqilu.com/zichuan/zichuan_tv02.m3u8
+淄川新闻,https://jsylivealone302.iqilu.com/zichuan/zichuan_tv01.m3u8
+博兴生活,https://jsylivealone302.iqilu.com/boxing/boxing_tv02.m3u8
+博兴新闻,https://jsylivealone302.iqilu.com/boxing/boxing_tv01.m3u8
+曹县新闻,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
+曹县新闻,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
+邹城文化,https://jsylivealone302.iqilu.com/zoucheng/zoucheng_tv02.m3u8
+邹城新闻,https://jsylivealone302.iqilu.com/zoucheng/zoucheng_tv01.m3u8
+邹平民生,https://jsylivealone302.iqilu.com/zouping/zouping_tv02.m3u8
+邹平新闻,https://jsylivealone302.iqilu.com/zouping/zouping_tv01.m3u8
+泰山TV,https://jsylivealone302.iqilu.com/taishan/taishan_tv01.m3u8
+滕州民生,https://jsylivealone302.iqilu.com/tengzhou/tengzhou_tv02.m3u8
+微山1,https://jsylivealone302.iqilu.com/weishan/weishan_tv02.m3u8
+微山2,https://jsylivealone302.iqilu.com/weishan/weishan_tv01.m3u8
+岱岳综合,http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8?shandd
+新泰新闻综合 2M1080[1920*1080],https://jsylivealone302.iqilu.com/xintai/xintai_tv01.m3u8
+新泰乡村 2M1080[1920*1080],https://jsylivealone302.iqilu.com/xintai/xintai_tv02.m3u8
+泰安新泰乡村,http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
+泰安新泰新闻,http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
+庆云生活,https://jsylivealone302.iqilu.com/qingyun/qingyun_tv02.m3u8
+庆云新闻,https://jsylivealone302.iqilu.com/qingyun/qingyun_tv01.m3u8
+任城新闻,https://jsylivealone302.iqilu.com/rencheng/rencheng_tv01.m3u8
+任城影视,https://jsylivealone302.iqilu.com/rencheng/rencheng_tv02.m3u8
+禹城综合,https://jsylivealone302.iqilu.com/yucheng/yucheng_tv01.m3u8
+禹城综艺,https://jsylivealone302.iqilu.com/yucheng/yucheng_tv02.m3u8
+郓城新闻,https://jsylivealone302.iqilu.com/live/yuncheng_tv01.m3u8
+郓城综艺,https://jsylivealone302.iqilu.com/live/yuncheng_tv02.m3u8
+临邑1,https://jsylivealone302.iqilu.com/linyi/linyi_tv01.m3u8
+临邑2,https://jsylivealone302.iqilu.com/linyi/linyi_tv02.m3u8
 
 
 🌴  湖南,#genre#
@@ -4343,182 +4505,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 江夏经济生活,http://59.175.226.142:280/gb28181/jjsh.m3u8
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8
-🍁  山东,#genre#
-山东齐鲁频道,http://221.0.78.198:2381/hls/20218/index.m3u8
-山东齐鲁频道,http://39.136.48.98:8089/PLTV/88888888/224/3221226045/1.m3u8
-山东齐鲁频道,山东齐鲁,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdql&auth=rinimabi
-山东生活,http://222.132.191.125:9901/tsfile/live/1003_1.m3u8
-山东生活,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdsh&auth=rinimabi
-山东综艺,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdzy&auth=rinimabi
-山东综艺,http://222.132.191.125:9901/tsfile/live/1004_1.m3u8
-山东新闻,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
-山东新闻,http://222.132.191.125:9901/tsfile/live/1006_1.m3u8
-山东新闻,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdgg&auth=rinimabi
-山东文旅,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdys&auth=rinimabi
-山东文旅,http://222.132.191.125:9901/tsfile/live/1002_1.m3u8
-山东少儿频道,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdse&auth=rinimabi
-山东少儿频道,http://222.132.191.125:9901/tsfile/live/1007_1.m3u8
-山东少儿频道,http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
-山东综艺频道,http://221.0.78.198:2381/hls/20219/index.m3u8
-山东综艺,http://221.0.78.198:2381/hls/20219/index.m3u8
-QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
-QTV-2,http://221.0.78.198:2381/hls/20221/index.m3u8
-QTV-3,http://221.0.78.198:2381/hls/20222/index.m3u8
-青岛胶州生活,https://jsylivealone302.iqilu.com/jiaozhou/jiaozhou_tv02.m3u8
-青岛胶州新闻,https://jsylivealone302.iqilu.com/jiaozhou/jiaozhou_tv01.m3u8
-青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
-青岛黄岛新闻,https://jsylivealone302.iqilu.com/huangdao/huangdao_tv01.m3u8
-青岛黄岛生活,https://jsylivealone302.iqilu.com/huangdao/huangdao_tv02.m3u8
-青岛李沧,https://jsylivealone302.iqilu.com/licang/licang_tv01.m3u8
-青岛即墨新闻,https://jsylivealone302.iqilu.com/jimo/jimo_tv01.m3u8
-青岛平度生活,https://jsylivealone302.iqilu.com/pingdu/pingdu_tv02.m3u8
-青岛平度新闻,https://jsylivealone302.iqilu.com/pingdu/pingdu_tv01.m3u8
-中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
-中华美食,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-zhmeishi/1.m3u8?shandd
-济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8?shandd
-济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
-齐河新闻,https://jsylivealone302.iqilu.com/qihe/qihe_tv01.m3u8
 
-济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
-济铁电视台,https://jsylivealone302.iqilu.com/jitie/jitie_tv01.m3u8
-济阳影视,https://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
-济阳综合,https://jsylivealone302.iqilu.com/live/jiyang_tv01.m3u8
-潍坊新闻综合,http://sobeylingyun02pull.sobeylive.com/live/wf1pd.m3u8?shandd
-潍坊新闻综合,http://stream.wfcmw.cn/1/sd/live.m3u8?shandd
-潍坊新闻综合,http://stream.wfcmw.cn/1/sd/live.m3u8?_upt=9148f0a51578381735
-潍坊新闻综合,http://sobeylingyun02pull.sobeylive.com/live/wf1pd.m3u8?shandd
-潍坊新闻综合,http://stream.wfcmw.cn/1/sd/live.m3u8?shandd
-潍坊公共,http://stream.wfcmw.cn/3/sd/live.m3u8?shandd
-潍坊科教,http://sobeylingyun02pull.sobeylive.com/live/wf4pd.m3u8?shandd
-潍坊农业,http://sobeylingyun02pull.sobeylive.com/live/wf2pd.m3u8?shandd
-潍城TV,https://jsylivealone302.iqilu.com/weicheng/weicheng_tv01.m3u8
-寒亭新闻,https://jsylivealone302.iqilu.com/live/hanting_tv01.m3u8
-坊子新闻,https://jsylivealone302.iqilu.com/fangziqu/fangziqu_tv01.m3u8
-昌乐新闻,https://jsylivealone302.iqilu.com/changle/changle_tv01.m3u8
-昌乐新闻,https://jsylivealone302.iqilu.com/changle/changle_tv01.m3u8
-青州文旅,http://sdqz.chinashadt.com:2036/live/stream:3.stream_360p/playlist.m3u8
-青州新闻,http://sdqz.chinashadt.com:2036/live/stream:1.stream_360p/playlist.m3u8
-安丘民生,https://jsylivealone302.iqilu.com/anqiu/anqiu_tv02.m3u8
-安丘新闻,https://jsylivealone302.iqilu.com/anqiu/anqiu_tv01.m3u8
-日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
-日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
-日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd
-岚山,https://jsylivealone302.iqilu.com/rizhaolanshan/rizhaolanshan_tv01.m3u8
-烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
-烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
-烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
-莱山影视,https://jsylivealone302.iqilu.com/laishan/laishan_tv02.m3u8
-莱山综合,https://jsylivealone302.iqilu.com/laishan/laishan_tv01.m3u8
-海阳综合,https://jsylivealone302.iqilu.com/haiyang/haiyang_tv01.m3u8
-威海新闻,http://l1.weihai.tv:8081/hls/969O76hb28.m3u8
-威海都市生活,http://l2.weihai.tv:8081/hls/g16E3482eI.m3u8
-威海城市海洋,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
-乳山生活,https://jsylivealone302.iqilu.com/live/rushan_tv02.m3u8
-乳山新闻,https://jsylivealone302.iqilu.com/live/rushan_tv01.m3u8
-济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
-济宁教育,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8?shandd
-济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
-济宁图文,http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8?shandd
-梁山新闻,https://jsylivealone302.iqilu.com/liangshan/liangshan_tv01.m3u8
-嘉祥生活,https://jsylivealone302.iqilu.com/jiaxiang/jiaxiang_tv02.m3u8
-嘉祥新闻,https://jsylivealone302.iqilu.com/jiaxiang/jiaxiang_tv01.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
-菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
-牡丹区新闻,https://jsylivealone302.iqilu.com/mudan/mudan_tv01.m3u8
-牡丹区综艺,https://jsylivealone302.iqilu.com/mudan/mudan_tv02.m3u8
-枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8?shandd
-枣庄新闻综合,http://stream.zzgd.tv/1/sd/live.m3u8?shandd
-枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8?shandd
-枣庄教育,http://stream.zzgd.tv/2/sd/live.m3u8?shandd
-枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?shandd
-枣庄公共,http://stream.zzgd.tv/3/sd/live.m3u8?shandd
-东营综合,http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
-东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
-东营综合,http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
-东营公共,rtmp://stream.hhek.cn:9936/live/ggpd_sd?shandd
-东营公共,http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
-东营科教,rtmp://stream.hhek.cn:9936/live/dyjy_sd?shandd
-东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd
-东营区科教影视,https://jsylivealone302.iqilu.com/dongying/dongying_tv02.m3u8
-东营区新闻,https://jsylivealone302.iqilu.com/dongying/dongying_tv01.m3u8
-
-滨州新闻综合,http://stream.bzcm.net/2/sd/live.m3u8?shandd
-滨州公共,http://stream.bzcm.net/1/sd/live.m3u8?shandd
-惠民影视,https://jsylivealone302.iqilu.com/live/huimin_tv02.m3u8
-惠民综合,https://jsylivealone302.iqilu.com/live/huimin_tv01.m3u8
-利津文化生活,https://jsylivealone302.iqilu.com/lijin/lijin_tv02.m3u8
-利津新闻,https://jsylivealone302.iqilu.com/lijin/lijin_tv01.m3u8
-聊城公共F,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
-聊城公共频道,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
-聊城新闻F,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel2/playlist.m3u8
-聊城新闻综合,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel2/playlist.m3u8
-东阿新闻,https://jsylivealone302.iqilu.com/donge/donge_tv01.m3u8
-东阿综艺信息,https://jsylivealone302.iqilu.com/donge/donge_tv02.m3u8
-东昌综合,https://jsylivealone302.iqilu.com/dongchangfu/dongchangfu_tv01.m3u8
-东平民生,https://jsylivealone302.iqilu.com/dongping/dongping_tv02.m3u8
-东平新闻,https://jsylivealone302.iqilu.com/dongping/dongping_tv01.m3u8
-泰安新闻综合,rtmp://124.130.146.172/live/tatv0111?shandd
-潍坊滨海新闻综合,https://livealone302.iqilu.com/binhai/binhai_tv.m3u8?shandd
-青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
-滨州新闻综合,http://stream.bzcm.net/2/sd/live.m3u8?shandd
-滨州公共,http://stream.bzcm.net/1/sd/live.m3u8?shandd
-泰安新闻综合,rtmp://124.130.146.172/live/tatv0111?shandd
-兖州生活,https://jsylivealone302.iqilu.com/live/yanzhou_tv02.m3u8
-兖州新闻,https://jsylivealone302.iqilu.com/live/yanzhou_tv01.m3u8
-禹城综合,https://jsylivealone302.iqilu.com/yucheng/yucheng_tv01.m3u8
-禹城综艺,https://jsylivealone302.iqilu.com/yucheng/yucheng_tv02.m3u8
-郓城新闻,https://jsylivealone302.iqilu.com/live/yuncheng_tv01.m3u8
-郓城综艺,https://jsylivealone302.iqilu.com/live/yuncheng_tv02.m3u8
-青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
-枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8
-枣庄教育,http://stream.zzgd.tv/2/sd/live.m3u8
-枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8
-枣庄新闻,http://stream.zzgd.tv/1/sd/live.m3u8
-枣庄新闻,http://stream.zztvzd.com/1/sd/live.m3u8
-兖州生活,https://jsylivealone302.iqilu.com/live/yanzhou_tv02.m3u8
-兖州新闻,https://jsylivealone302.iqilu.com/live/yanzhou_tv01.m3u8
-平邑生活,https://jsylivealone302.iqilu.com/pingyi/pingyi_tv02.m3u8
-平邑新闻,https://jsylivealone302.iqilu.com/pingyi/pingyi_tv01.m3u8
-平阴生活,https://jsylivealone302.iqilu.com/pingyin/pingyin_tv02.m3u8
-平阴综合,https://jsylivealone302.iqilu.com/pingyin/pingyin_tv01.m3u8
-平原新闻,https://jsylivealone302.iqilu.com/pingyuan/pingyuan_tv01.m3u8
-沾化综合,https://jsylivealone302.iqilu.com/zhanhua/zhanhua_tv01.m3u8
-张店2,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv02.m3u8
-张店综合,https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv01.m3u8
-章丘综合,https://jsylivealone302.iqilu.com/zhangqiu/zhangqiu_tv01.m3u8
-章丘TV-2,https://jsylivealone302.iqilu.com/zhangqiu/zhangqiu_tv02.m3u8
-周村生活,https://jsylivealone302.iqilu.com/zhoucun/zhoucun_tv02.m3u8
-周村新闻,https://jsylivealone302.iqilu.com/zhoucun/zhoucun_tv01.m3u8
-淄川生活,https://jsylivealone302.iqilu.com/zichuan/zichuan_tv02.m3u8
-淄川新闻,https://jsylivealone302.iqilu.com/zichuan/zichuan_tv01.m3u8
-博兴生活,https://jsylivealone302.iqilu.com/boxing/boxing_tv02.m3u8
-博兴新闻,https://jsylivealone302.iqilu.com/boxing/boxing_tv01.m3u8
-曹县新闻,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
-曹县新闻,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
-邹城文化,https://jsylivealone302.iqilu.com/zoucheng/zoucheng_tv02.m3u8
-邹城新闻,https://jsylivealone302.iqilu.com/zoucheng/zoucheng_tv01.m3u8
-邹平民生,https://jsylivealone302.iqilu.com/zouping/zouping_tv02.m3u8
-邹平新闻,https://jsylivealone302.iqilu.com/zouping/zouping_tv01.m3u8
-泰山TV,https://jsylivealone302.iqilu.com/taishan/taishan_tv01.m3u8
-滕州民生,https://jsylivealone302.iqilu.com/tengzhou/tengzhou_tv02.m3u8
-微山1,https://jsylivealone302.iqilu.com/weishan/weishan_tv02.m3u8
-微山2,https://jsylivealone302.iqilu.com/weishan/weishan_tv01.m3u8
-岱岳综合,http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8?shandd
-新泰新闻综合 2M1080[1920*1080],https://jsylivealone302.iqilu.com/xintai/xintai_tv01.m3u8
-新泰乡村 2M1080[1920*1080],https://jsylivealone302.iqilu.com/xintai/xintai_tv02.m3u8
-泰安新泰乡村,http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
-泰安新泰新闻,http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
-庆云生活,https://jsylivealone302.iqilu.com/qingyun/qingyun_tv02.m3u8
-庆云新闻,https://jsylivealone302.iqilu.com/qingyun/qingyun_tv01.m3u8
-任城新闻,https://jsylivealone302.iqilu.com/rencheng/rencheng_tv01.m3u8
-任城影视,https://jsylivealone302.iqilu.com/rencheng/rencheng_tv02.m3u8
-禹城综合,https://jsylivealone302.iqilu.com/yucheng/yucheng_tv01.m3u8
-禹城综艺,https://jsylivealone302.iqilu.com/yucheng/yucheng_tv02.m3u8
-郓城新闻,https://jsylivealone302.iqilu.com/live/yuncheng_tv01.m3u8
-郓城综艺,https://jsylivealone302.iqilu.com/live/yuncheng_tv02.m3u8
-临邑1,https://jsylivealone302.iqilu.com/linyi/linyi_tv01.m3u8
-临邑2,https://jsylivealone302.iqilu.com/linyi/linyi_tv02.m3u8
 🎍  安徽,#genre#
 安徽影院,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
