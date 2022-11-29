@@ -21,9 +21,7 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+
 体育财经资讯,http://120.84.96.161:808/hls/86/index.m3u8 
 体育财经资讯,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 体育财经资讯,http://120.132.122.244:59845/hls/81/index.m3u8
@@ -366,7 +364,7 @@ CCTV风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
 厦门卫视,http://111.40.196.32/PLTV/88888888/224/3221225643/index.m3u8?zweimd
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 厦门卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221226199/index.m3u8
-广西卫视,http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/gxws/1300000/mnf.m3u8
+
 广西卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294203.m3u8
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 广西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
@@ -4925,6 +4923,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 河南新闻,http://171.11.108.163:33389/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://1.197.248.232:9901/tsfile/live/1005_1.m3u8?
 河南都市,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 河南都市,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
 河南法治,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8
@@ -46079,6 +46078,7 @@ document.onkeydown = function(){
 
 <meta http-equiv="refresh" content="0; url=https://www.baidu.com">
 <p style="display:none;">
+
 
 
 
