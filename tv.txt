@@ -54,10 +54,12 @@ TVB星河,http://206.221.176.47:64020
 TVB明珠台,http://159.75.85.63:5828/gudou.php?id=1351_4500
 TVB明珠台,http://120.84.96.50:808/hls/26/index.m3u8
 TVB明珠台,http://140.238.155.232:9000/jmsytb.m3u8?c=38
-
+澳门資訊,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
+澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花,http://120.84.96.62:808/hls/24/index.m3u8?blog.ntnas.top
 澳门莲花,http://120.84.96.78:808/hls/24/index.m3u8
 澳门莲花2,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -46078,6 +46080,7 @@ document.onkeydown = function(){
 
 <meta http-equiv="refresh" content="0; url=https://www.baidu.com">
 <p style="display:none;">
+
 
 
 
