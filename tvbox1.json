@@ -12,39 +12,39 @@
 
   {"key":"csp_xpath_线路1","name":"看电视线路1","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
 {"key":"csp_77","name":"请勿相信博彩广告,若无法看请点击数据源","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-	    { "key": "线路3", "name": "看电视线路3", "type": 0, "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-        { "key": "线路4", "name": "看电视线路4", "type": 0, "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+	    { "key": "线路3", "name": "看电视线路2", "type": 0, "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+        { "key": "线路4", "name": "看电视线路3", "type": 0, "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
-{"key":"csp_apple","name":"看电视线路5","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},    
+{"key":"csp_apple","name":"看电视线路4","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},    
 
  //{"key":"csp_xpath_线路0","name":"请勿相信上面的博彩广告","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
 //{"key":"Lezhu_spider","name":"看电视线路8","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 
-{ "key": "线路10", "name": "看电视线路6", "type": 0, "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/at/xml
+{ "key": "线路10", "name": "看电视线路5", "type": 0, "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/at/xml
 ", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
-{"key":"Kuaikan","name":"看电视线路7","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Kuaikan","name":"看电视线路6","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	    
 	    
-	{"key":"dr_豆瓣","name":"看电视线路9","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"},    
+	{"key":"dr_豆瓣","name":"看电视线路7","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"},    
 	    
 	
 	    
-	{"key":"js豆瓣","name":"看电视线路10","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},    
-	{"key":"csp_DiDuan" ,"name":"看电视线路11","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
-	{"key":"速更资源","name":"看电视线路12", "type": 0, "api": "https://sugengzy.cn/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+	{"key":"js豆瓣","name":"看电视线路8","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},    
+	{"key":"csp_DiDuan" ,"name":"看电视线路9","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
+	{"key":"速更资源","name":"看电视线路10", "type": 0, "api": "https://sugengzy.cn/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
-	{"key":"mtv_pc_奇艺视频","name":"看电视线路13","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"mtv_pc_奇艺视频","name":"看电视线路11","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 	
 
-	 {"key":"星海资源","name":"看电视线路14","type":1,"api":"https://www.xhzy01.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	 {"key":"星海资源","name":"看电视线路12","type":1,"api":"https://www.xhzy01.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	   
 	 
 	    
 	    
 	 {
             "key": "百度",
-            "name": "看电视线路16",
+            "name": "看电视线路13",
             "type": 1,
             "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
             "searchable": 1,
@@ -66,12 +66,6 @@
             ]
         },   
 	    
-	  
-{"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/COKEMV.json"},
- {"key": "csp_Kmys","name": "🐱酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},   
-	{"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/TVBox/MaooXB/LIBVIO.json"},
- {"key":"csp_xpath_ikan6","name":"❤️爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/TVBox/MaooXP/ikan6.json"},
-   {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 
 	    
 	    
@@ -80,7 +74,7 @@
 
 
 	    
-	{"key":"17kan","name":"⚽🏀体育直播线路2","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"},    
+	{"key":"17kan","name":"⚽🏀体育直播线路1","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"},    
 	
 	    
 
@@ -88,7 +82,7 @@
 
       {
             "key": "csp_xyqb_310直播",
-            "name": "⚽🏀体育直播线路3",
+            "name": "⚽🏀体育直播线路2",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
@@ -107,7 +101,7 @@
 
 	{
             "key": "csp_xBPQ_zhi",
-            "name": "️🎾体育直播线路4",
+            "name": "️🎾体育直播线路3",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -120,7 +114,7 @@
 
 {
             "key": "csp_XYQBiu_一起看",
-            "name": "⚽🏀体育直播线路5",
+            "name": "⚽🏀体育直播线路4",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
@@ -136,7 +130,7 @@
 
 
 
-	{"key":"csp_XYQBiu_310直播","name":"⚽🏀体育直播线路7","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/310直播.json"},    
+	{"key":"csp_XYQBiu_310直播","name":"⚽🏀体育直播线路5","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/310直播.json"},    
 	    
 	
 	    
@@ -419,7 +413,9 @@
 {"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},	
 {"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜"]}},
-{"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},	
+{"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
+{"name":"秒解","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+{"name":"①秒播","type":1,"url":"https://jx.hfyrw.com/mao.go?url="},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"💡奇米","type":1,"url":"https://qimihe.com/?url="}
 ],
