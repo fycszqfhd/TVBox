@@ -292,12 +292,17 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E9%85%B7%E7%8B%97MV.json"
     },
 
-
-{key:'少儿1',name:' 少儿教育',type:3,api:'csp_Bili',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/d68e8m4r.json'},
-    
+   {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+    }, 
 	    
 	    
-	    
+	{key:'学堂1',name:'🅰️儿童乐园',type:3,api:'csp_Bili',searchable:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/upx9kubt.json'},    
 	    
 
 
