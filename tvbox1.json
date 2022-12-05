@@ -310,8 +310,8 @@
 {key:'学堂2',name:' 📙小学学习',type:3,api:'csp_Bili',searchable:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/9u0v0cfp.json'},
 {key:'学堂3',name:' 📙初中学习',type:3,api:'csp_Bili',searchable:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/2nr6p1tu.json'},
 {key:'学堂4',name:' 📙高中学习',type:3,api:'csp_Bili',searchable:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vpa6ipnz.json'},
-{key:'csp_xpath_qiumi',name:'球赛直播',type:3,api:'csp_XPathFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js'}, 
-{key:'体育',name:'💋体育合集',type:3,api:'csp_Bili',searchable:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/zfn0npjj.json'},    
+{key:'csp_xpath_qiumi',name:'球赛直播',type:3,api:'csp_XPathFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js',"jar": "https://github.com/heroaku/TVboxo/raw/main/Jar/xo1.jar"}, 
+{key:'体育',name:'💋体育合集',type:3,api:'csp_Bili',searchable:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/zfn0npjj.json',"jar": "https://github.com/heroaku/TVboxo/raw/main/Jar/xo1.jar"},    
 {key:'戏曲',name:'🅰️戏曲合集',type:3,api:'csp_Bili',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/rl70lo6s.json'},    
 
 	    
