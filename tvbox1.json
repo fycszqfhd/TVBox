@@ -293,9 +293,6 @@
     },
 
 
-name:'🅰️少儿合集',type:3,api:'csp_Bili',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/x0far2l4.json'},
-📙少儿教育',type:3,api:'csp_Bili',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/d68e8m4r.json'},
-name:' 📙学堂教育',type:3,api:'csp_Bili',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/7uhkekdo.json'},
 {key:'少儿1',name:' 少儿教育',type:3,api:'csp_Bili',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/d68e8m4r.json'},
     
 	    
