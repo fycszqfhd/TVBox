@@ -31,7 +31,7 @@
 香港耀财财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 香港耀财财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 
-
+香港面包台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 儒释道经1,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 儒释道经2,https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
@@ -74,12 +74,13 @@ TVB明珠台,http://140.238.155.232:9000/jmsytb.m3u8?c=38
 NASA台,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 NASA台2,http://140.238.155.232:9000/jmsytb.m3u8?c=26
 原住民电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+原住民电视台2,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 原住民电视台2,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-唯心電視2 (480p),rtmp://9wv7.mine.nu/sat/tv771
-唯心電視2 (480p),http://140.238.155.232:9000/jmsytb.m3u8?c=25
 
+唯心電視2 (480p),http://140.238.155.232:9000/jmsytb.m3u8?c=25
+唯心電視2 (480p),http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛3,http://140.238.155.232:9000/jmsytb.m3u8?c=31
@@ -101,6 +102,7 @@ CBS新闻,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d
 NBC新闻台2,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 NHK国际频道1,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 ABC ,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC2 ,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 法国24台,http://140.238.155.232:9000/jmsytb.m3u8?c=13
 半岛新闻台,https://epg.pm/stream/aa91efbfad3543629e502661146f7d9a69ea2d66285c6b32309f8f90dc92e885.m3u8
 FreshNews,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
@@ -111,19 +113,22 @@ Bayon TV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 📺央视频道,#genre#
 
 CCTV-1综合,http://124.220.17.172/as.php?id=1
-
+CCTV-1综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8?blog.ntnas.top
 CCTV-1综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=4
 CCTV-1综合,http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
 CCTV-1综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=4
 CCTV-1综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
 
-
+CCTV-2 财经,http://124.220.17.172/as.php?id=2
 CCTV-2 财经,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=01
 CCTV-2 财经,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=4
 CCTV-2 财经,http://111.40.196.9/PLTV/88888888/224/3221225488/index.m3u8
 CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225762/1.m3u8
 CCTV-2 财经,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
+CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225782/1.m3u8
 CCTV-3 综艺,http://124.220.17.172/as.php?id=3
+CCTV-3 综艺,rtmp://202.204.52.116:1935/livetv/cctv3hd
 CCTV-3 综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=4
 CCTV-3 综艺,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV-3 综艺,https://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8
@@ -131,6 +136,8 @@ CCTV-3 综艺,http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 CCTV-3 综艺,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=4
 CCTV-3 综艺,http://111.20.105.60:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225781/1.m3u8
+CCTV-4 中文国际,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8
 CCTV-4 中文国际,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=4
 CCTV-4 中文国际,http://yfsl.vsd.gehua.net.cn/live/CCTV4_800.m3u8
 CCTV-4 中文国际,http://60.10.167.88:808/hls/4/index.m3u8
@@ -138,6 +145,7 @@ CCTV-4 中文国际,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenli
 CCTV-4 中文国际,http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4 中文国际,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8
 CCTV-5 体育,http://124.220.17.172/as.php?id=5
+CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225780/1.m3u8
 CCTV-5 体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=4
 CCTV-5 体育,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
 CCTV-5 体育,https://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8
@@ -147,6 +155,7 @@ CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=4
 CCTV-5体育,rtmp://202.204.52.116:1935/livetv/cctv1hd
 CCTV-5+ 体育赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-5+ 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8?blog.ntnas.top
 CCTV-5+ 体育赛事,http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-5+ 体育赛事,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
@@ -160,21 +169,28 @@ CCTV风云足球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203
 CCTV风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
 
 CCTV-6 电影,http://124.220.17.172/as.php?id=6
+CCTV-6 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225779/1.m3u8
 CCTV-6 电影,http://182.254.52.15/keonline.shanghai.liveplay.qq.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 CCTV-6 电影http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=4
 CCTV-6 电影,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV-6 电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000016466&livemode=1&channel-id=ystenlive&test/PLTV/=02
 CCTV-6 电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-7 国防军事,http://183.207.249.36/PLTV/4/224/3221227314/index.m3u8
+CCTV-7 国防军事,http://123.6.9.146/live/jz-cctv-7/live.m3u8
+CCTV-7 国防军事,rtmp://202.204.52.116:1935/livetv/cctv7hd
 CCTV-7 国防军事,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=4
 CCTV-7 国防军事,http://123.6.9.146/live/jz-cctv-7/live.m3u8
 CCTV-7 国防军事,http://222.188.112.68:10000/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7 国防军事,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225759/1.m3u8
+CCTV-8 电视剧,rtmp://202.204.52.116:1935/livetv/cctv8hd
 CCTV-8 电视剧,http://111.40.196.31/PLTV/88888888/224/3221225592/index.m3u8
 CCTV-8 电视剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000003736&livemode=1&channel-id=ystenlive&test/PLTV/=01
 CCTV-8 电视剧,http://yfsl.vsd.gehua.net.cn/live/CCTV8_800.m3u8
 
 CCTV-8 电视剧,http://111.20.105.60:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225758/1.m3u8
+CCTV-9 纪录,rtmp://202.204.52.116:1935/livetv/cctv9hd
 CCTV-9 纪录,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=4
 CCTV-9 纪录,http://39.134.166.197:6610/000000001000/6000000001000032162/6000000001000032162_1500000_20221203_165000_13.ts?stbId=3&version=1.0&zduration=10&cdnID=BCS-CDN-0438-ZTE004&ts_min=1&srcurl=aHR0cDovLzEyMC4yMDQuMTE1LjEzMDo4MDgzLzAwMDAwMDAwMTAwMC82MDAwMDAwMDAxMDAwMDMyMTYyLzYwMDAwMDAwMDEwMDAwMzIxNjJfMTUwMDAwMF8yMDIyMTIwM18xNjUwMDBfMTMudHM%2Fc3RiSWQ9MyZsaXZlbW9kZT0xJmNoYW5uZWwtaWQ9d2FzdXN5dCZDb250ZW50aWQ9NjAwMDAwMDAwMTAwMDAzMjE2MiZjZG5JRD1CQ1MtQ0ROLTA0MzgtWlRFMDA0Jm93c2lkPTg1NzQ2ODE2NzAwNTc1NDcxODk%3D&ztecid=6000000001000032162&IASHttpSessionId=OTT1833420221203085229009464&ispcode=2
 CCTV-9 纪录,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499402.m3u8
@@ -182,7 +198,8 @@ CCTV-9 纪录,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Con
 CCTV-9 纪录,http://111.20.105.60:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-9 纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 
-
+CCTV-10 科教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
+CCTV-10 科教,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225777/1.m3u8
 CCTV-10 科教,http://39.136.48.53:8089/PLTV/88888888/224/3221225761/index.m3u8
 CCTV-10 科教,http://39.134.65.243/PLTV/88888888/224/3221225677/1.m3u8
 CCTV-10 科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
@@ -196,6 +213,10 @@ CCTV-11 戏曲,http://b1batman.qicp.vip:8055/udp/239.45.0.18:5140
 CCTV-11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 CCTV-12 社会与法,http://39.136.48.53:8089/PLTV/88888888/224/3221225763/index.m3u8
 CCTV-12 社会与法,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=02
+CCTV-12 社会与法,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
+CCTV-12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225775/1.m3u8
+CCTV-12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV-12 社会与法,rtmp://202.204.52.116:1935/livetv/cctv12hd
 CCTV-12 社会与法,http://111.20.105.60:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-12 社会与法,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=4
 CCTV-13 新闻,http://124.220.17.172/as.php?id=13
@@ -206,12 +227,14 @@ CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13 新闻,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV-14 少儿,http://124.220.17.172/as.php?id=14
 CCTV-14 少儿,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=4
+CCTV-14 少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
 CCTV-14 少儿,http://yun.cnar.cc:4000/udp/224.30.30.19:8038
 CCTV-14 少儿,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14 少儿,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=4
 CCTV-14 少儿,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-15 音乐,http://124.220.17.172/as.php?id=15
+CCTV-15 音乐,http://221.0.78.198:2381/hls/20215/index.m3u8
 CCTV-15 音乐,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8?zyangd
 CCTV-15 音乐,http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15 音乐,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8
@@ -223,6 +246,8 @@ CCTV-16 奥林匹克,http://124.220.17.172/shijiebei/sjb.php?id=509s
 CCTV-16 奥林匹克,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
 CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17农业农村,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/1.m3u8
+CCTV-17农业农村,rtmp://202.204.52.116:1935/livetv/cctv17hd
 CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/1.m3u8?zyangd
 
 CCTV-17农业农村,http://59.51.68.40:1936/live/cctv7/playlist.m3u8?zyangd
@@ -255,6 +280,8 @@ CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 📺卫视频道,#genre#
 湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 湖南卫视,http://111.29.9.37:6610/000000001001/6000000001000018044/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000018044
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
@@ -262,6 +289,7 @@ CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
 浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
@@ -332,6 +360,9 @@ CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 陕西卫视,http://61.163.181.78:9901/tsfile/live/0136_1.m3u8
 天津卫视,http://124.220.17.172/as.php?id=25
+天津卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
+天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
+天津卫视,http://221.0.78.198:2381/hls/20226/index.m3u8
 天津卫视,http://113.16.255.167:85//tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://111.29.9.37:6610/000000001001/6000000001000009186/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000009186
 
