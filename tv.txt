@@ -36,6 +36,7 @@
 儒释道经1,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 儒释道经2,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 儒释道经2,https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+TVB星河,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 TVB星河,http://113.117.74.11:808/hls/135/index.m3u8
 TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 TVB星河,http://27.47.71.97:808/hls/35/index.m3u8
@@ -59,6 +60,7 @@ TVB明珠台,http://www.56ku.ml/gudou.php?id=1351_4500
 TVB明珠台,http://159.75.85.63:5828/gudou.php?id=1351_4500
 TVB明珠台,http://120.84.96.50:808/hls/26/index.m3u8
 TVB明珠台,http://140.238.155.232:9000/jmsytb.m3u8?c=38
+澳门資訊,http://175.154.201.15:8090/custom21.m3u8
 澳门資訊,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 澳门Macau,https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
@@ -176,7 +178,7 @@ CCTV-3 综艺,http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 CCTV-3 综艺,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=4
 CCTV-3 综艺,http://111.20.105.60:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-4 中文国际,http://121.51.249.19/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225493/index.m3u8
+
 CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225781/1.m3u8
 CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225781/index.m3u8?blog.ntnas.top
 CCTV-4 中文国际,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8
@@ -337,8 +339,7 @@ CCTV-17农业农村,http://59.51.68.40:1936/live/cctv7/playlist.m3u8?zyangd
 CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV-17农业农村,http://59.51.68.40:1936/live/cctv7/playlist.m3u8
 CCTV-17农业农村,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-CCTV-怀旧剧场,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV-怀旧剧场,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+
 
 CETV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8?blog.ntnas.top
 CETV-1,http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8
@@ -1000,7 +1001,8 @@ Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 世界杯直播,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8$黑龙江移动
 世界杯直播2,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8$西藏移动
 世界杯直播3,https://justsometime.gztv.com/sec/shenghuos.m3u8
-CCTV-5 体育,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
+
+CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227686/index.m3u8
 CCTV-5 体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
@@ -1068,11 +1070,13 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
 超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+ELEVEN体育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+ELEVEN体育1台,rtmp://9wv7.mine.nu/sat/tv731
+ELEVEN体育1台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 ELEVEN体育2台,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
 ELEVEN体育2台,rtmp://9wv7.mine.nu/sat/tv741
 ELEVEN体育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-ELEVEN体育1台,rtmp://9wv7.mine.nu/sat/tv731
-ELEVEN体育1台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+
 足球1,http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
 足球2,http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
 足球3,http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
@@ -36863,3 +36867,4 @@ MTV28116,http://em.21dtv.com/songs/60128115.mkv
 MTV28117,http://em.21dtv.com/songs/60128116.mkv
 MTV28118,http://em.21dtv.com/songs/60128117.mkv
 MTV28119,http://em.21dtv.com/songs/60128118.
+
