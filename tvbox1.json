@@ -410,7 +410,8 @@
 
 
 "parses":[
-{"name":"看电视","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+{"name":"看电视1","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+{"name":"看电视2","type":0,"url":"http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url="},	
 {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 	
 {"name":"bz2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
