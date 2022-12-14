@@ -139,9 +139,9 @@ ABC2 ,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 东森洋片,http://120.84.96.62:808/hls/33/index.m3u8?blog.ntnas.top
 东森洋片,http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 东森洋片,https://epg.pm/stream/65edfbea888ee7fd0656d4806e7a3436bba73ebda4e80aa20635fc6c663885a2.m3u8
-
-FreshNews,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
 FreshNews,https://epg.pm/stream/7123b09f9f34d671258924e98a42d014b5ab3f798d2353ff1d3b536f52f6da67.ctv
+FreshNews,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+
 FreshNews,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
 FreshNews,http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
 FreshNews,http://167.99.65.12:1935/live/myStream/playlist.m3u8
