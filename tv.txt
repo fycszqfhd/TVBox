@@ -49,6 +49,7 @@ HBO电影,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 HBO电影,http://27.47.71.97:808/hls/35/index.m3u8
 HBO电影,http://206.221.176.47:64020
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
 有线直播台,http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
@@ -168,7 +169,7 @@ Bayon TV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
 美亚电影,https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 俄罗斯新闻,https://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
-
+德国DW,https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 📺央视频道,#genre#
 CCTV-1综合,http://124.220.17.172:1100/aas.php?id=1
 CCTV-1综合,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
@@ -678,7 +679,7 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 黑龙江卫视,http://111.40.196.27/PLTV/88888888/224/3221225544/index.m3u8
 黑龙江卫视,http://b1batman.qicp.vip:8055/udp/239.45.1.236:5140
 
-
+新疆卫视,http://203.205.137.156/livehyw5.chinamcache.com/hyw/zb01.m3u8
 新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8?blog.ntnas.top
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 新疆卫视,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/xjws/1300000/mnf.m3u8
