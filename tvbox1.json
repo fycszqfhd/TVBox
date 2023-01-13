@@ -115,16 +115,42 @@
 	    
 	    
 	    
+	  {
+            "key":"csp_AppTT",
+            "name":"🐰图图影视",
+            "type":3,"api":"csp_TutuYs",                     "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://45.207.11.9:6628"
+        },
+	    
+	 
+	    
+	    
 	   {
-            "key" : "csp_biubiu_555电影",
-            "name" : "🏅555 电影",
+            "key" : "csp_biubiu_dadagui",
+            "name" : "🐢达达龟",
             "type" : 3,
-            "api" : "csp_XBiubiu",
+            "api" : "csp_XPathFilter",
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/555%E7%94%B5%E5%BD%B1.json"
-        }, 
+            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
+        },  
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 	    
 	    
 	    
