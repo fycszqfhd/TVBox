@@ -115,14 +115,8 @@
 	    
 	    
 	    
-	  {
-            "key":"csp_AppTT",
-            "name":"🐰图图影视",
-            "type":3,"api":"csp_TutuYs",                     "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://45.207.11.9:6628"
-        },
+	{"key":"drpy_js_真不卡","name":"🕵真不卡🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/真不卡.js"},
+
 	    
 	 
 	    
@@ -137,6 +131,23 @@
             "filterable" : 1,
             "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
         },  
+	    
+	    
+	  {"key":"drpy_js_360影视","name":"🕵360影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/360影视.js"},
+{"key":"drpy_js_在线之家","name":"🕵在线之家🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/在线之家.js"},  
+	    
+{"key":"drpy_js_完美看看","name":"🕵完美看看🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/完美看看.js"},
+
+	{"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/czspp.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
+    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 	    
 	    
 	    
