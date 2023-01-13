@@ -198,12 +198,16 @@
 {"key": "演唱会","name": "🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bliyc.json"},
 {"key": "csp_biubiu_ting","name": "🌿听书网","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/tingshu.json"},
 
-{"key":"csp_biubiu_ting","name":"听书（无画面）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/tingbook.json"},
-
-{"key" : "drpy_js_有声小说吧","name" : "有声小说┃JS","type" : 3,"api" : "http://w.g9.pub:66/381203888/lib/drpy.min.js","ext" : "http://w.g9.pub:66/381203888/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js","jar":"http://w.g9.pub:66/381203888/jar/JS%E4%B8%93%E7%94%A8.jar"},
-
-
-
+ {
+            "key" : "csp_biubiu_ting",
+            "name" : "🎧听书网（无画面）",
+            "type" : 3,
+            "api" : "csp_XBiubiu",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 0,
+            "ext" : "https://agit.ai/o/o/raw/branch/o/o/%e5%90%ac%e4%b9%a6%e7%bd%91.json"
+        },
 
 
 
