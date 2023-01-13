@@ -71,31 +71,16 @@
 
 
 	    
-	 {
-            "key" : "多多",
-            "name" : "🐶多多影视(优)",
-            "type" : 1,
-            "api" : "https://www.ddzyz1.com/api.php/provide/vod/",
-            "playUrl" : "",
+	{
+            "key" : "云播看看",
+            "name" : "🌨云播看看",
+            "type" : 3,
+            "api" : "csp_XPath",
             "searchable" : 1,
             "quickSearch" : 1,
-            "filterable" : 1,
-            "categories" : [
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "综艺",
-                "动漫",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片"]
-        },   
-	    
+            "filterable" : 0,
+            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
+        },
 	    
 	    
 	  {
@@ -125,7 +110,16 @@
         },   
 	    
 	    
-	    
+	   {
+            "key" : "人人影视",
+            "name" : "👫人人影视",
+            "type" : 3,
+            "api" : "csp_XBiubiu",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 0,
+            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
+        }, 
 	    
 	    
 	    
