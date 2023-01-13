@@ -31,8 +31,6 @@
 	
 	    
 	{"key":"js豆瓣","name":"看电视线路8","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},    
-	{"key":"csp_DiDuan" ,"name":"看电视线路9","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
-	{"key":"速更资源","name":"看电视线路10", "type": 0, "api": "https://sugengzy.cn/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
 	{"key":"mtv_pc_奇艺视频","name":"看电视线路11","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 	
@@ -67,8 +65,7 @@
         },   
 	    
 
-{"key":"mtv_xp_爱港剧源","name":"看电视线路14","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/爱港剧源.json"},
-
+{"key":"csp_biubiu_爱港剧","name":"🥒爱港剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/爱港剧.json"},
 
 	    
 	
