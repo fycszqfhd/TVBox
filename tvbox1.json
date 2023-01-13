@@ -71,6 +71,54 @@
 
 
 	    
+	 {
+            "key" : "多多",
+            "name" : "🐶多多影视(优)",
+            "type" : 1,
+            "api" : "https://www.ddzyz1.com/api.php/provide/vod/",
+            "playUrl" : "",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "categories" : [
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "综艺",
+                "动漫",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片"]
+        },   
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 	{"key":"17kan","name":"⚽🏀体育直播线路1","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"},    
 	
 	    
