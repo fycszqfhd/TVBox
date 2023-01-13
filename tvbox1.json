@@ -65,7 +65,6 @@
         },   
 	    
 
-{"key":"csp_biubiu_爱港剧","name":"🥒爱港剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/爱港剧.json"},
 
 	    
 	
@@ -112,7 +111,6 @@
 	    
 	    
 	    
-	{"key":"drpy_js_真不卡","name":"🕵真不卡🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/真不卡.js"},
 
 	    
 	 
@@ -134,18 +132,9 @@
 	{"key":"樱花资源","name":"樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
 
-	{"key":"csp_biubiu_莫扎兔","name":"🥒莫扎兔(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/莫扎兔.json"},
     
 	    
-	{"key":"csp_xpath_ikan6","name":"爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/ikan6.json"},
-    
-	  {"key":"多多资源2","name":"多多资源2(优)","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"思古切片","name":"思古切片(优)","type":1,"api":"https://cai.gbxy.net.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"Mux切片","name":"Mux切片(优)","type":1,"api":"https://muxnb.muxvip.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"MuX2","name":"MuX2(优)","type":1,"api":"https://video.muxvip.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"土剧TV","name":"土剧TV(优)","type":1,"api":"http://tujutv.top/api.php/provide/vod/","searchable":1,"quickSearch":1},  
-	    
-	    
+
 	    
 	    
 	    
