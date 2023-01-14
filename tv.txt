@@ -44,9 +44,9 @@
 TVBS卫星台,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 八大精彩台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
 八大精彩台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-佛教频道,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
-有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-有线新闻台,https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+佛教频道1,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+
+佛教频道2,https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
 
 
 
@@ -56,25 +56,6 @@ TVBS卫星台,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist
 民视综艺,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
 
 
-翡翠台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-翡翠台,http://www.56ku.ml/gudou.php?id=1350_4500
-翡翠台,http://jydx.jdshipin.com:808/hls/25/index.m3u8
-翡翠台,http://113.117.74.11:808/hls/25/index.m3u8
-翡翠台,http://113.64.147.187:808/hls/67/index.m3u8
-翡翠台,http://120.84.96.78:808/hls/25/index.m3u8
-翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
-翡翠台,http://nsszds.f3322.net:808/hls/25/index.m3u8
-翡翠台,http://27.47.71.97:808/hls/36/index.m3u8
-
-
-
-TVB明珠台,http://114.84.76.27:7777/tsfile/live/1031_1.m3u8
-TVB明珠台,http://jydx.jdshipin.com:808/hls/26/index.m3u8
-TVB明珠台,http://159.75.85.63:5828/gudou.php?id=1351_4500
-TVB明珠台,http://120.84.96.50:808/hls/26/index.m3u8
-TVB明珠台,http://140.238.155.232:9000/jmsytb.m3u8?c=38
-
-探索频道HD,http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 中视经典台,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
 
 中视经典台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -101,8 +82,7 @@ ELTA娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist
 ELTA娱乐台,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 
 
-HBO家庭影院,http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
-HBO强档影院,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+
 原住民电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 
 
@@ -990,14 +970,6 @@ WWE视频秀,http://111.62.156.15/tx.flv.huya.com/src/1099531728847-109953172884
 超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225768/index.m3u8
 超级综艺,http://39.134.65.164/PLTV/88888888/224/3221225642/1.m3u8
 超级综艺,http://39.134.65.162/PLTV/88888888/224/3221225642/1.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
-安多卫视,http://183.207.248.34/PLTV/4/224/3221226999/1.m3u8
 
 悠漫卡通卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 悠漫卡通卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8?blog.ntnas.top
