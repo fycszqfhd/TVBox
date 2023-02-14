@@ -880,10 +880,11 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8?blog.ntnas.top
 四川卫视,http://111.40.196.34/PLTV/88888888/224/3221225562/index.m3u8
 
-WWE格斗,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-WWE格斗,https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8?zjiangsd
-WWE格斗,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8
-WWE格斗,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
+
+苏州影视娱乐,https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8?zjiangsd
+
+
+苏州影视娱乐,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
