@@ -294,8 +294,11 @@ QTV-轮播,http://lanjinglive02.qtvnews.com/qtv/zb9.m3u8?auth_key=2195065577-0-0
 青岛胶州生活,rtmp://jsylivealone.iqilu.com/jiaozhou/jiaozhou_tv02
 高密新闻,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001089/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 潍坊网络综艺,http://wfrtv-live-tz.wfcmw.cn:82/live/1wyzxyyss.m3u8
+潍坊网络综艺,http://wfrtv-live-tz.wfcmw.cn:82/live/5yyplyyzh.m3u8
 潍坊网络健康养生,http://wfrtv-live-tz.wfcmw.cn:81/live/9kyjs.m3u8
 潍坊网络健康养生,https://bp-caster.bestv.com.cn/946/3/video.m3u8
+潍坊综合广播,http://wfrtv-live-tz.wfcmw.cn/live/10xwplzwms.m3u8
+潍坊综合广播,http://wfrtv-live-tz.wfcmw.cn/live/6yipdxwzb.m3u8
 CCTV-2 财经,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&test/PLTV/=01
 
 CCTV-2 财经,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
@@ -411,9 +414,11 @@ CCTV-6 电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000001275/index.m3u
 高清电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
 高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy 
 高清电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
-动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?blog.ntnas.top
+
+
 动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy 
 动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
@@ -453,8 +458,8 @@ CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225759/1
 
 CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8?blog.ntnas.top
 CCTV-8 电视剧,http://111.40.196.31/PLTV/88888888/224/3221225592/index.m3u8
-
-
+歌曲欣赏,https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
+歌曲欣赏,https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
 
 
 
@@ -675,11 +680,12 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 金牌综艺,http://39.134.65.175/PLTV/88888888/224/3221225525/1.m3u8
 金牌综艺,http://39.134.65.162/PLTV/88888888/224/3221225525/1.m3u8
 金牌综艺,http://39.134.67.108/PLTV/88888888/224/3221225969/1.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8?blog.ntnas.top
 江苏卫视,http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225746/index.m3u8?blog.ntnas.top
 江苏卫视,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 
-江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8?blog.ntnas.top
+
 江苏卫视,http://113.16.255.167:85//tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -714,6 +720,7 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 北京卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
 东北戏曲频道,http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=b234e6c41620650518?zjild
 东北戏曲频道,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
+戏曲卫视1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
 戏曲卫视1,http://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
 戏曲卫视1,https://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
 重庆卫视,http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8
@@ -723,6 +730,7 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 
 重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+深圳卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8
 深圳卫视,http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8?blog.ntnas.top
 深圳卫视,http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
@@ -885,6 +893,9 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 云南卫视,http://111.40.196.36/PLTV/88888888/224/3221225635/index.m3u8
 
 老年剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8?key
+老年剧场,https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
+WWE摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+WWE摔跤,https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
 四川卫视,http://39.134.66.110/PLTV/88888888/224/3221225970/index.m3u8
 四川卫视,http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
@@ -938,6 +949,7 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 老剧超清,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key
 老剧超清,http://39.134.67.108/PLTV/88888888/224/3221225969/1.m3u8
+海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225769/1.m3u8
 
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?blog.ntnas.top
@@ -973,6 +985,7 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 河南卫视,http://39.134.66.229/PLTV/88888888/224/3221225988/index.m3u8
 河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
 
@@ -993,6 +1006,12 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 河南卫视,http://218.29.55.44:808/hls/16/index.m3u8
 河南卫视,http://222.240.82.92:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8
+河南公共,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+河南公共,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
+河南百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+河南百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
+河南百姓调解,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
 1989年春晚,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
 1991年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
@@ -1085,6 +1104,9 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 厦门卫视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
 厦门卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
+山东教育卫视,http://39.136.48.10:8089/PLTV/88888888/224/3221226049/index.m3u8
+山东教育卫视,http://39.136.48.52:8089/PLTV/88888888/224/3221226049/index.m3u8
+山东教育卫视,http://39.136.48.7:8089/PLTV/88888888/224/3221226049/index.m3u8
 山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
