@@ -1,26 +1,6 @@
 //📺  港•澳•台（仅用于测试学习，请勿商用，如有侵权请联系删除）,#genre#
 📺看电视3.0,#genre#
 
-看电视3.0凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
-看电视3.0凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
-看电视3.0凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
-看电视3.0凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
-看电视3.0凤凰卫视,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
-看电视3.0凤凰卫视,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
-看电视3.0凤凰卫视,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
-
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-
 
 
 
@@ -606,11 +586,10 @@ CCTV-15 音乐,http://112.19.214.90:8883/tsfile/live/0015_1.m3u8
 CCTV-15 音乐,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205002.m3u8
 CCTV-15 音乐,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 
-CCTV-16 奥林匹克,http://139.9.188.172:5678/sxg.php?id=CCTV-16_4000
 
 CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 
-CCTV-16 奥林匹克,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000$蜀小果代理4K50HDR杜比5.1
+
 
 CCTV-16 奥林匹克,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
@@ -873,9 +852,6 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
 山东卫视,http://111.40.196.30/PLTV/88888888/224/3221225543/index.m3u8?zweimd
 山东卫视,http://219.142.151.179:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-1995年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-1997年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-1998年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
 
 山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
 山西卫视,http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
@@ -970,8 +946,6 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 
 
 贵州卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000293303.m3u8
-1992年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-1993年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
 
 东南卫视,http://111.40.196.28/PLTV/88888888/224/3221225583/index.m3u8
 东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
@@ -987,8 +961,7 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 
 
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-老剧超清,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key
-老剧超清,http://39.134.67.108/PLTV/88888888/224/3221225969/1.m3u8
+
 
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225769/1.m3u8
 
@@ -1006,25 +979,7 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 青海卫视,http://111.29.9.37:6610/000000001001/6399324389404552555/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6399324389404552555
 青海卫视,http://yfsl.vsd.gehua.net.cn/live/QingHai_800.m3u8
-凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
-凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
-凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
-凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
-凤凰卫视,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
-凤凰卫视,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
-凤凰卫视,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
-凤凰资讯,http://tvmvip110.club/fengh.php?id=1 
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+
 
 河南卫视,http://39.134.66.229/PLTV/88888888/224/3221225988/index.m3u8
 河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
