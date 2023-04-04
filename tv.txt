@@ -1,11 +1,12 @@
 //📺  港•澳•台（仅用于测试学习，请勿商用，如有侵权请联系删除）,#genre#
 📺看电视3.0,#genre#
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-凤凰卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
-
+凤凰卫视,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
+凤凰卫视,https://live.v1.mk/api/sxg.php?id=test1_4000
 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
+凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
+凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 
 公视戏剧台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
@@ -418,6 +419,7 @@ CCTV风云足球,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/de
 CCTV风云足球,http://117.161.133.51/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
 CCTV风云足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+CCTV风云音乐,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
 CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
 CCTV风云音乐,http://117.161.133.51/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
 CCTV风云音乐,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
@@ -487,9 +489,6 @@ CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225759/1
 
 CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8?blog.ntnas.top
 CCTV-8 电视剧,http://111.40.196.31/PLTV/88888888/224/3221225592/index.m3u8
-歌曲欣赏,https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
-歌曲欣赏,https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
-
 
 
 CCTV-9 纪录,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=03
@@ -505,6 +504,7 @@ CCTV-9 纪录,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 
 
 CCTV-10 科教,http://123.6.9.146/live/jz-cctv-10/live.m3u8
+CCTV-10 科教,http://playback.8ne5i.10.vs.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV-10 科教,http://125.210.152.19:9120/live/hzgq-cctv10gq-h264.m3u8
 CCTV-10 科教,http://39.136.48.11:8089/PLTV/88888888/224/3221225761/index.m3u8$华东
 CCTV-10 科教,http://39.136.48.2:8089/PLTV/88888888/224/3221225761/index.m3u8$华东
@@ -595,7 +595,7 @@ CCTV-15 音乐,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u
 
 
 CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-
+CCTV-16 奥林匹克,https://live.v1.mk/api/sxg.php?id=CCTV-16_4000
 
 
 CCTV-16 奥林匹克,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1127,9 +1127,8 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 
 西藏卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/1300.m3u8
 西藏卫视,http://113.16.255.167:85//tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-
+欢笑剧场,http://epg.112114.xyz/douyu/3186217
 欢笑剧场,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-西欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 欢笑剧场,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
@@ -1143,13 +1142,20 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 佳嘉卡通卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-凤凰卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
-
+凤凰卫视,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
+凤凰卫视,https://live.v1.mk/api/sxg.php?id=test1_4000
 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
+凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
+凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8?blog.ntnas.top
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+寰宇新闻,https://epg.pw/stream/6afd584bd519aac420401032bb813eeb513aae54d92a84d8d9e7dd9a9a209361.ctv
+寰宇新闻,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
+寰宇新闻,https://epg.pw/stream/dad5cbed70b3180898429cf374d23796d7f6ebec39729364e865bc9ac737645b.ctv
+
+
+
 金鹰卡通卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 金鹰卡通卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8?blog.ntnas.top
 📺春节晚会,#genre#
