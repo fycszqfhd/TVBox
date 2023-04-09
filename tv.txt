@@ -272,7 +272,6 @@ CCTV-1综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/in
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 山东体育,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdty&auth=rinimabi
 
-济南都市,http://feiyuegang.ufycb.com:808/hls/22/index.m3u8
 济南都市,http://39.134.144.6:8089/PLTV/88888888/224/3221226029/index.m3u8
 济南都市,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
 QTV-1,http://221.0.78.198:2381/hls/20220/index.m3u8
@@ -580,8 +579,9 @@ CCTV-14 少儿,http://yun.cnar.cc:4000/udp/224.30.30.19:8038
 CCTV-14 少儿,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=4
 CCTV-14 少儿,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-CCTV-15 音乐,http://222.71.221.186:9901/tsfile/live/0015_1.m3u8
 CCTV-15 音乐,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000008163&livemode=1&channel-id=ystenlive&test/PLTV/=01
+
+CCTV-15 音乐,http://222.71.221.186:9901/tsfile/live/0015_1.m3u8
 
 CCTV-15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?blog.ntnas.top
 CCTV-15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
@@ -743,6 +743,8 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 
 广东卫视,http://124.220.17.172/as.php?id=26
 广东卫视,http://124.220.17.172/shtv/ybhg.php?id=578824315
+广东综艺,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
+
 
 北京卫视,http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 北京卫视,http://111.40.196.32/PLTV/88888888/224/3221225527/index.m3u8?zweimd
@@ -1020,7 +1022,7 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 河南卫视,http://218.29.55.44:808/hls/16/index.m3u8
 河南卫视,http://222.240.82.92:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
-
+南国都市频道,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jszy.m3u8
 南国都市频道,https://justsometime.gztv.com/sec/shenghuos.m3u8
 南国都市频道,http://lu1.cc/itv/php/baitv.php?id=shxwzh
 南国都市频道,http://222.90.97.254:9901/tsfile/live/1017_1.m3u8
@@ -1166,6 +1168,7 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8?blog.ntnas.top
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+寰宇新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 寰宇新闻,https://epg.pw/stream/6afd584bd519aac420401032bb813eeb513aae54d92a84d8d9e7dd9a9a209361.ctv
 寰宇新闻,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
 寰宇新闻,https://epg.pw/stream/dad5cbed70b3180898429cf374d23796d7f6ebec39729364e865bc9ac737645b.ctv
