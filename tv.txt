@@ -459,7 +459,6 @@ CCTV-6 电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000001275/index.m3u
 家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy 
 家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-CCTV-7 国防军事,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000/mnf.m3u8
 CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-7 国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225778/index.m3u8?blog.ntnas.top
 CCTV-7 国防军事,http://123.6.9.146/live/jz-cctv-7/live.m3u8
@@ -522,14 +521,8 @@ CCTV-10 科教,http://39.134.65.243/PLTV/88888888/224/3221225677/1.m3u8
 CCTV-10 科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-10 科教,http://121.51.249.19/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225499/index.m3u8
 CCTV-10 科教,http://yfsl.vsd.gehua.net.cn/live/CCTV10_800.m3u8
-
-CCTV-11 戏曲,http://222.71.221.186:9901/tsfile/live/0011_1.m3u8
-
 CCTV-11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225776/1.m3u8
-
-
-
-
+CCTV-11 戏曲,http://222.71.221.186:9901/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,http://222.71.221.186:9901/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225776/1.m3u8
 CCTV-11 戏曲,http://123.6.9.146/live/jz-cctv-11/live.m3u8
@@ -660,7 +653,6 @@ CETV-4,http://111.20.40.172/PLTV/88888893/224/3221226950/index.m3u8
 中央老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?blog.ntnas.top
 中央老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
 中央老故事,http://bytedance.live.cqccn.com/__cl/cg:live/__c/gushi/__op/default/__f//index.m3u8
-CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8
 CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226395/index.m3u8
 CCTV4K,http://39.136.48.7:8089/PLTV/88888888/224/3221226395/index.m3u8
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php$央视频切片4KHDR
