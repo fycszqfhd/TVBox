@@ -340,7 +340,7 @@ CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225762/1.m3
 
 CCTV-2 财经,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 
-CCTV-3 综艺,http://123.6.9.146/live/jz-cctv-3/live.m3u8
+
 CCTV-3 综艺,http://111.20.40.167/PLTV/88888893/224/3221226397/index.m3u8
 CCTV-3 综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000011218&livemode=1&channel-id=ystenlive&test/PLTV/=01
 CCTV-3 综艺,http://jydx.jdshipin.com:8081/hls/3/index.m3u8
@@ -1084,12 +1084,13 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 厦门卫视,http://111.40.196.32/PLTV/88888888/224/3221225643/index.m3u8?zweimd
 
 厦门卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221226199/index.m3u8
-
+广西卫视,http://222.71.221.186:9901/tsfile/live/0113_1.m3u8
+广西卫视,http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/1.m3u8
 广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://222.71.221.186:9901/tsfile/live/0113_1.m3u8
-广西卫视,http://222.71.221.186:9901/tsfile/live/0113_1.m3u8
-广西卫视,http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
+
+
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8?blog.ntnas.top
 广西卫视,http://124.220.17.172/shtv/ybhg.php?id=815493758
@@ -1150,10 +1151,9 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 山东教育卫视,http://39.136.48.52:8089/PLTV/88888888/224/3221226049/index.m3u8
 山东教育卫视,http://39.136.48.7:8089/PLTV/88888888/224/3221226049/index.m3u8
 山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
-
-经典小品,http://tvmvip110.club/douyu.php?id=9067836
-经典小品,http://epg.112114.xyz/douyu/308752
 经典小品,http://live.aptvapp.com/live/douyu/308752
+经典小品,http://epg.112114.xyz/douyu/308752
+
 
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
@@ -1189,32 +1189,21 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 佳嘉卡通卫视,http://222.71.221.186:9901/tsfile/live/0018_1.m3u8
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰卫视,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
+凤凰卫视,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
 凤凰卫视,https://live.v1.mk/api/sxg.php?id=test1_4000
 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
 凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8?blog.ntnas.top
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-寰宇新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-寰宇新闻,https://epg.pw/stream/6afd584bd519aac420401032bb813eeb513aae54d92a84d8d9e7dd9a9a209361.ctv
-寰宇新闻,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
-寰宇新闻,https://epg.pw/stream/dad5cbed70b3180898429cf374d23796d7f6ebec39729364e865bc9ac737645b.ctv
-寰宇新闻,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
-寰宇新闻,http://flv.mp4cdn.live/gt-key=0025874.php?id=5
-三立新闻,http://103.68.63.37:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-三立新闻,http://2023.stream-link.org/live/1803236734
-三立新闻,http://tvmvip110.club/douyu.php?id=9650836
+
+
+
+
 炫舞未来,http://39.134.136.205:6610/200000001898/460000089800010039/1.m3u8?IAS=
 炫舞未来,http://39.134.136.205:6610/200000001898/460000089800010086/1.m3u8?IAS=
 炫舞未来,http://39.134.136.202:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
-中视新闻,http://103.68.63.37:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-中视新闻,http://flv.mp4cdn.live/gt-key=0025874.php?id=103
-中天新闻,http://103.68.63.37:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-中天新闻,http://39.134.136.205:6610/200000001898/460000089800010147/1.m3u8?IAS=
-TVBS HD,http://103.68.63.37:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS HD,http://103.68.63.37:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 
 TVBS HD,http://39.134.136.205:6610/200000001898/460000089800010021/1.m3u8?IAS=
 
@@ -49590,6 +49579,7 @@ document.onkeydown = function(){
 
 <meta http-equiv="refresh" content="0; url=https://www.baidu.com">
 <p style="display:none;">
+
 
 
 
