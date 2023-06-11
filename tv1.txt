@@ -1,4 +1,3 @@
-📺央视卫视频道,#genre#
 
 📺央视卫视频道,#genre#
 CCTV-1综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=4
@@ -325,12 +324,8 @@ CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225759/1
 
 CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8?blog.ntnas.top
 CCTV-8 电视剧,http://111.40.196.31/PLTV/88888888/224/3221225592/index.m3u8
-
-CCTV-9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225758/1.m3u8
-CCTV-9 纪录,https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8
-
 CCTV-9 纪录,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000028286&livemode=1&channel-id=ystenlive&test/PLTV/=03
-
+CCTV-9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225758/1.m3u8
 CCTV-9 纪录,rtmp://202.204.52.116:1935/livetv/cctv9hd
 CCTV-9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8?blog.ntnas.top
 CCTV-9 纪录,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=4
@@ -508,9 +503,10 @@ CETV-4,http://111.20.40.172/PLTV/88888893/224/3221226950/index.m3u8
 中央老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?blog.ntnas.top
 中央老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
 中央老故事,http://bytedance.live.cqccn.com/__cl/cg:live/__c/gushi/__op/default/__f//index.m3u8
+CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226395/index.m3u8
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php$央视频切片4KHDR
 CCTV4K,http://113.207.84.195:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
-CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226395/index.m3u8
+
 CCTV4K,http://39.136.48.7:8089/PLTV/88888888/224/3221226395/index.m3u8
 
 CCTV4K,http://r.jdshipin.com/krMB5
@@ -823,9 +819,9 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 
 云南卫视,http://111.40.196.36/PLTV/88888888/224/3221225635/index.m3u8
 
-云南都市,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
 云南都市,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 云南都市,http://live2.scmstv.cn/ggpd/sd/live.m3u8
+
 四川卫视,http://39.134.66.110/PLTV/88888888/224/3221225970/index.m3u8
 四川卫视,http://116.11.140.224:8181/tsfile/live/1095_1.m3u8
 四川卫视,http://222.71.221.186:9901/tsfile/live/0123_1.m3u8
