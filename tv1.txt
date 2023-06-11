@@ -1,7 +1,8 @@
 📺央视卫视频道,#genre#
-CCTV-1综合,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
-CCTV-1综合,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+
+📺央视卫视频道,#genre#
 CCTV-1综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=4
+CCTV-1综合,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV-1综合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV-1综合,http://jydx.jdshipin.com:8081/hls/138/index.m3u8
 
@@ -804,8 +805,8 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 安徽卫视,http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 
 武术世界,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-武术世界,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/sxg.php?id=wssj_4000
-云南卫视,http://113.207.84.195:8090/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
+武术世界,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8?blog.ntnas.top
 
 云南卫视,http://222.71.221.186:9901/tsfile/live/0119_1.m3u8
@@ -835,7 +836,7 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8?blog.ntnas.top
 四川卫视,http://111.40.196.34/PLTV/88888888/224/3221225562/index.m3u8
-四川乡村,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/sxg.php?id=SCTV-kjSCTV-9-_4000
+
 
 苏州影视娱乐,https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8?zjiangsd
 
@@ -1060,6 +1061,7 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 西藏卫视,http://113.16.255.167:85//tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 欢笑音乐,http://epg.112114.xyz/douyu/3186217
+欢笑音乐,http://live2.scmstv.cn/ggpd/sd/live.m3u8
 
 超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 
@@ -1101,7 +1103,6 @@ NewTV东北热剧,http://222.71.221.186:9901/tsfile/live/0018_1.m3u8
 民视台,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
 民视台,http://61.221.81.93:8078/hls/40/80/ftv.m3u8
 民视台,rtmp://219.80.97.77/sat/tv051
-
 
 🍁  山东,#genre#
 
