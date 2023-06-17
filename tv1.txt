@@ -1,11 +1,9 @@
 
 📺央视卫视频道,#genre#
+CCTV-1综合,http://39.134.66.4:80/PLTV/88888888/224/3221225816/index.m3u8?$移动超清1080P
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=4
 CCTV-1综合,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
-CCTV-1综合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV-1综合,http://jydx.jdshipin.com:8081/hls/138/index.m3u8
-
-CCTV-1综合,http://39.134.66.4:80/PLTV/88888888/224/3221225816/index.m3u8?$移动超清1080P
 CCTV-1综合,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV-1综合,http://221.2.36.34:8888/newlive/live/hls/2/live.m3u8
 
@@ -108,11 +106,6 @@ CCTV-1综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/in
 五星体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 
-北京体育,http://qnap.yjnhome.com:4000/udp/239.3.1.243:8000
-北京体育,http://beifeng.site:4000/rtp/239.3.1.230:8000
-北京体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-北京体育,http://61.221.81.93:8078/hls/35/80/cti.m3u8
-
 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdty&auth=rinimabi
@@ -132,8 +125,6 @@ QTV-5,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081
 QTV-6,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
 
 
-斗鱼李子柒,http://epg.112114.xyz/douyu/2901080
-斗鱼李子柒,http://120.204.20.48/tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1.xs
 生活,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 生活,https://justsometime.gztv.com/sec/yingshi.m3u8
 青岛即墨新闻,http://39.135.162.228:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001080/index.m3u8?IASHttpSessionId=RR32220210512000742670276&zte_bandwidth=1000&bandwidth=2540800&ispcode=3&timeformat
@@ -1074,11 +1065,7 @@ NewTV东北热剧,http://222.71.221.186:9901/tsfile/live/0018_1.m3u8
 
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8?blog.ntnas.top
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-
-華視,rtmp://219.80.97.77/sat/tv111
-華視,rtmp://119.81.124.89/sat/tv071
-華視,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
-
+華視,http://aweitv.acloudtwei.cloud/iptv.php?id=52
 
 
 香港凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
@@ -1087,18 +1074,12 @@ NewTV东北热剧,http://222.71.221.186:9901/tsfile/live/0018_1.m3u8
 香港凤凰卫视,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 香港凤凰卫视,http://113.207.84.195:8090/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8
 
-凤凰资讯台,http://r.jdshipin.com/0Rp07
+
 凤凰资讯台,http://112.102.214.193:65530/live/fhzx/index.m3u8
 凤凰资讯台,http://113.207.84.195:8090/__cl/cg:live/__c/xfylHD/__op/default/__f//index.m3u8
 凤凰资讯台,http://112.102.214.193:65530/live/fhzx/index.m3u8
 凤凰资讯台,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-影视解说,http://maomao.kandiantv.cn/douyu1.php?id=4808115
-影视解说,rtmp://219.80.97.77/sat/tv551
-影视解说,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-民视台,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
-民视台,http://61.221.81.93:8078/hls/40/80/ftv.m3u8
-民视台,rtmp://219.80.97.77/sat/tv051
 
 🍁  山东,#genre#
 
