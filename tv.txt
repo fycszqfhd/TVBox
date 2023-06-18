@@ -605,16 +605,17 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 江苏综艺,http://222.90.97.254:9901/tsfile/live/1017_1.m3u8
 
 
-广东卫视,http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
+
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225757/1.m3u8
 广东卫视,http://111.40.196.31/PLTV/88888888/224/3221225531/index.m3u8
+广东卫视,http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
 广东卫视,http://222.71.221.186:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://111.40.196.32/PLTV/88888888/224/3221225533/index.m3u8
 广东卫视,http://wabc.ml/sxg.php?id=gdwsH265_4000
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225757/index.m3u8?blog.ntnas.top
 广东卫视,http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
 
-广东卫视,http://124.220.17.172/as.php?id=26
+
 广东卫视,http://124.220.17.172/shtv/ybhg.php?id=578824315
 东森电影,http://sc2022.stream-link.org/tv2306.php?id=t01
 东森电影,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
@@ -1103,10 +1104,9 @@ NewTV东北热剧,http://222.71.221.186:9901/tsfile/live/0018_1.m3u8
 台湾电视,rtmp://219.80.97.77/sat/tv071
 台湾电视,rtmp://119.81.124.89/sat/tv071
 台湾电视,https://17186.eu.org/php/phtv/fhhk.flv
-香港凤凰卫视,http://r.jdshipin.com/cCCzW
+香港凤凰卫视,http://112.102.214.193:65530/live/fhzw/index.m3u8
 香港凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 
-香港凤凰卫视,http://112.102.214.193:65530/live/fhzw/index.m3u8
 香港凤凰卫视,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 香港凤凰卫视,http://113.207.84.195:8090/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8
 
