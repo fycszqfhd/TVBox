@@ -545,10 +545,12 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
 
-浙江杭州生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
-浙江杭州生活,http://gslbserv.itv.cmvideo.cn:80/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-浙江宁波生活,http://183.129.242.178:3333/tsfile/live/1012_1.m3u8
-浙江宁波生活,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+超级电视剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=4
+超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+超级电视剧,http://gslbserv.itv.cmvideo.cn:80/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+
+爱悬疑,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+爱悬疑,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 
 河北影视,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 河北影视,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
@@ -613,10 +615,11 @@ CCTV4K,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 
 广东卫视,http://124.220.17.172/as.php?id=26
 广东卫视,http://124.220.17.172/shtv/ybhg.php?id=578824315
+东森电影,http://sc2022.stream-link.org/tv2306.php?id=t01
 东森电影,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-
+东森电影,rtmp://119.81.124.89/sat/tv701
 东森电影,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 
 
@@ -679,6 +682,8 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 上海教育,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+辽宁卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=3
 辽宁卫视,http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8?zweimd
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225772/index.m3u8
 
@@ -718,6 +723,7 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 
 陕西卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019984c0fa29ae0d57380da3a.m3u8?bitrate=2300&pt=5
 陕西卫视,http://111.20.40.172/PLTV/88888893/224/3221226389/index.m3u8
+陕西卫视,http://111.20.40.172/PLTV/88888893/224/3221226388/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 陕西卫视,http://61.163.181.78:9901/tsfile/live/0136_1.m3u8
 
@@ -761,6 +767,11 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
 山东卫视,http://111.40.196.30/PLTV/88888888/224/3221225543/index.m3u8?zweimd
 山东卫视,http://219.142.151.179:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+NewTV魅力潇湘,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=4
+NewTV魅力潇湘,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+
 山西卫视,http://39.134.136.151:6610/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=00
 
 山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
@@ -824,8 +835,8 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 
 云南卫视,http://111.40.196.36/PLTV/88888888/224/3221225635/index.m3u8
 
-云南都市,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-云南都市,http://live2.scmstv.cn/ggpd/sd/live.m3u8
+平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+平泉影视,http://live2.scmstv.cn/ggpd/sd/live.m3u8
 
 四川卫视,http://39.134.66.110/PLTV/88888888/224/3221225970/index.m3u8
 四川卫视,http://116.11.140.224:8181/tsfile/live/1095_1.m3u8
@@ -956,6 +967,7 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 河北农民,http://n12.rcs.revma.com/78fm9wyy2tzuv
 
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
+
 宁夏卫视,http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
 宁夏卫视,http://222.71.221.186:9901/tsfile/live/0112_1.m3u8
@@ -988,6 +1000,9 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 广西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
 广西卫视,http://hls.yun.gehua.net.cn:8088/live/GuangXi_2000.m3u8
+
+广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+广西影视,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 南宁影视娱乐,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 
@@ -1047,6 +1062,7 @@ WWE摔角,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
 农林卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226204/index.m3u8
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 西藏卫视,http://111.20.40.166/PLTV/88888893/224/3221226212/index.m3u8
+西藏卫视,http://111.20.40.160/PLTV/88888893/224/3221226212/index.m3u8
 西藏卫视,http://111.20.40.173/PLTV/88888893/224/3221226212/index.m3u8
 西藏卫视,http://222.71.221.186:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://39.134.65.251/PLTV/88888888/224/3221225570/1.m3u8
@@ -1078,8 +1094,14 @@ NewTV东北热剧,http://222.71.221.186:9901/tsfile/live/0018_1.m3u8
 
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8?blog.ntnas.top
 北京卡酷卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-華視,http://aweitv.acloudtwei.cloud/iptv.php?id=52
+華視,http://sc2022.stream-link.org/tv2306.php?id=t03
 
+華視,http://aweitv.acloudtwei.cloud/iptv.php?id=52
+華視,http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
+華視,http://111.20.40.163/PLTV/88888893/224/3221226947/index.m3u8
+台湾电视,rtmp://219.80.97.77/sat/tv071
+台湾电视,rtmp://119.81.124.89/sat/tv071
+台湾电视,https://17186.eu.org/php/phtv/fhhk.flv
 香港凤凰卫视,http://r.jdshipin.com/cCCzW
 香港凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 
