@@ -1057,7 +1057,6 @@ NewTV魅力潇湘,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 农林卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226204/index.m3u8
-西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 西藏卫视,http://111.20.40.166/PLTV/88888893/224/3221226212/index.m3u8
 西藏卫视,http://111.20.40.160/PLTV/88888893/224/3221226212/index.m3u8
 西藏卫视,http://111.20.40.173/PLTV/88888893/224/3221226212/index.m3u8
